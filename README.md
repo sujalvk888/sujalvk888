@@ -298,6 +298,332 @@ Problem Solving
 
 ---
 
+<!-- ========================================================= -->
+<!--                  FEATURED MISSIONS                         -->
+<!-- ========================================================= -->
+
 # 📂 FEATURED MISSIONS
 
-> *(Continue in Part 2)*
+> Every project is treated like a completed mission from my engineering journey.
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+# 🤖 MISSION 01
+
+## InfiDocs AI
+
+### 🟢 STATUS
+Completed
+
+### 📖 OVERVIEW
+
+Enterprise-grade AI document intelligence platform capable of understanding uploaded documents through Retrieval-Augmented Generation (RAG), semantic search, and conversational AI.
+
+---
+
+### ⚙ Tech Stack
+
+- TypeScript
+- Next.js
+- Supabase
+- OpenAI
+- TailwindCSS
+- Vector Search
+- RAG Pipeline
+
+---
+
+### 🎯 Mission Highlights
+
+✅ Intelligent document chat
+
+✅ PDF & DOCX support
+
+✅ Semantic Retrieval
+
+✅ Context-aware conversations
+
+✅ Authentication
+
+✅ Beautiful modern UI
+
+---
+
+### 🚀 Mission Rewards
+
+- LLM Integration
+- Vector Database
+- AI Pipeline
+- Production Architecture
+
+<br>
+
+<a href="https://github.com/sujalvk888/infidocs-ai">
+<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+# 🏡 MISSION 02
+
+## Airbnb Clone
+
+### 🟢 STATUS
+Completed
+
+### 📖 OVERVIEW
+
+Production-ready booking platform inspired by Airbnb featuring authentication, reservations, property listings, filtering and responsive UI.
+
+---
+
+### ⚙ Tech Stack
+
+- React
+- Node.js
+- Express
+- PostgreSQL
+- Prisma
+- TailwindCSS
+
+---
+
+### 🎯 Mission Highlights
+
+✅ Authentication
+
+✅ Reservation System
+
+✅ Database Design
+
+✅ REST APIs
+
+✅ Responsive Interface
+
+✅ Secure Backend
+
+---
+
+### 🚀 Mission Rewards
+
+- Full Stack Architecture
+- Database Engineering
+- API Design
+- Authentication
+
+<br>
+
+<a href="https://github.com/sujalvk888/airbnb-clone">
+<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🗂 PROJECT ROADMAP
+
+| Mission | Category | Difficulty | Status |
+|----------|----------|-----------|--------|
+| 🤖 InfiDocs AI | Artificial Intelligence | ⭐⭐⭐⭐⭐ | ✅ Complete |
+| 🏡 Airbnb Clone | Full Stack | ⭐⭐⭐⭐⭐ | ✅ Complete |
+| 🌐 Portfolio Website | Frontend | ⭐⭐⭐ | ✅ Complete |
+| 🎮 Unity Fighting Game | Game Development | ⭐⭐⭐⭐⭐ | 🚧 Active |
+| 🧠 AI Research Projects | AI | ⭐⭐⭐⭐⭐ | 🚀 In Progress |
+
+---
+
+# 🏆 ACHIEVEMENT SYSTEM
+
+## 🎖 UNLOCKED ACHIEVEMENTS
+
+| Achievement | Progress |
+|------------|----------|
+| 🤖 AI Engineer | 🟢 Unlocked |
+| 🌐 Full Stack Developer | 🟢 Unlocked |
+| 📄 RAG Application Builder | 🟢 Unlocked |
+| 🎨 UI/UX Designer | 🟢 Unlocked |
+| 🚀 Portfolio Creator | 🟢 Unlocked |
+| 🧠 Lifelong Learner | 🟢 Unlocked |
+
+---
+
+## 🏅 ELITE BADGES
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-Expert-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Full%20Stack-Developer-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Problem-Solver-0891B2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open-Source-16A34A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/UI%2FUX-Creator-9333EA?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Lifelong-Learner-F59E0B?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🎯 CURRENT MISSIONS
+
+## 🚀 Mission Board
+
+### 🤖 Building
+
+```text
+██████████████░░░░░░░░░ 65%
+
+AI Powered Applications
+
+LLM Systems
+
+Production AI Pipelines
+```
+
+---
+
+### 📚 Learning
+
+```text
+████████████████░░░░░░ 80%
+
+Advanced AI
+
+Machine Learning
+
+Deep Learning
+
+Cloud Architecture
+
+System Design
+```
+
+---
+
+### 🔬 Researching
+
+```text
+█████████████░░░░░░░░░ 60%
+
+AI Agents
+
+Vector Databases
+
+LLM Optimization
+
+Multi-Agent Systems
+```
+
+---
+
+# 🎮 PLAYER STATS
+
+| Attribute | Level |
+|-----------|------|
+| 💻 Programming | ████████████████████ 90% |
+| 🤖 AI Development | ███████████████████ 92% |
+| 🌐 Web Development | ██████████████████ 90% |
+| 🎨 UI Design | ████████████████ 82% |
+| 🧩 Problem Solving | ███████████████████ 94% |
+| 📚 Learning | ████████████████████ 99% |
+
+---
+
+# 🧭 DEVELOPER PHILOSOPHY
+
+> "Great software isn't just built—it is engineered with purpose, refined with curiosity, and continuously improved through learning."
+
+---
+
+# 📖 ENGINEERING PRINCIPLES
+
+✅ Clean Architecture
+
+✅ Scalable Design
+
+✅ Performance First
+
+✅ User-Centered Experience
+
+✅ Continuous Learning
+
+✅ Production Ready Solutions
+
+✅ Maintainable Code
+
+✅ Innovation Through Simplicity
+
+---
+
+# 🌌 ENGINEERING TIMELINE
+
+```text
+Student
+      │
+      ▼
+
+Frontend Development
+      │
+      ▼
+
+Full Stack Development
+      │
+      ▼
+
+Artificial Intelligence
+      │
+      ▼
+
+LLM Engineering
+      │
+      ▼
+
+Production AI Systems
+      │
+      ▼
+
+Future AI Architect
+```
+
+---
+
+# 📈 DEVELOPMENT JOURNEY
+
+```text
+Programming      ███████████████████░
+
+Frontend         ██████████████████░░
+
+Backend          █████████████████░░░
+
+Databases        █████████████████░░░
+
+Artificial Intelligence
+                 ███████████████████░
+
+Software Design  ██████████████████░░
+
+Problem Solving  ████████████████████
+```
+
+---
+
+# 📊 SYSTEM DIAGNOSTICS
+
+> *(Continue in Part 3)*
