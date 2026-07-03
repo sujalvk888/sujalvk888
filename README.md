@@ -22,14 +22,14 @@
 <!-- ============ TYPING SVG ============ -->
 <!-- Edit the "lines" query param to change the rotating text -->
 <a href="#">
-  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=800&lines=Aspiring+Machine+Learning+Engineer+%F0%9F%A4%96;Generative+AI+%7C+LLMs+%7C+Deep+Learning+Enthusiast;Turning+Data+Into+Decisions%2C+One+Model+at+a+Time;Always+Learning.+Always+Building.+Always+Curious.](https://tse2.mm.bing.net/th/id/OIP.4awqBVzdnpHewc2VSDBa6gHaHa?rs=1&pid=ImgDetMain&o=7&rm=3)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=800&lines=Aspiring+Machine+Learning+Engineer+%F0%9F%A4%96;Generative+AI+%7C+LLMs+%7C+Deep+Learning+Enthusiast;Turning+Data+Into+Decisions%2C+One+Model+at+a+Time;Always+Learning.+Always+Building.+Always+Curious." alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- ============ PROFILE VIEW COUNTER + SOCIAL BADGES ============ -->
-<img src="https://komarev.com/ghpvc/?username=sujalvk888&label=Profile%20Views&color=2575fc&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/sujalvk888?label=Followers&style=for-the-badge&color=6a11cb" alt="GitHub Followers"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20Views&color=2575fc&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?label=Followers&style=for-the-badge&color=6a11cb" alt="GitHub Followers"/>
 
 <br/><br/>
 
