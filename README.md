@@ -624,6 +624,258 @@ Problem Solving  ████████████████████
 
 ---
 
+<!-- ========================================================= -->
+<!--                 SYSTEM DIAGNOSTICS                         -->
+<!-- ========================================================= -->
+
 # 📊 SYSTEM DIAGNOSTICS
 
-> *(Continue in Part 3)*
+<div align="center">
+
+### ⚡ GitHub Intelligence Dashboard
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sujalvk888&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sujalvk888&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+<br><br>
+
+<img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalvk888&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=10"/>
+
+</div>
+
+---
+
+# 📈 CONTRIBUTION RADAR
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sujalvk888&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🏅 TROPHY VAULT
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=sujalvk888&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=4"/>
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION MATRIX
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sujalvk888/sujalvk888/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+> **Note:** Enable the GitHub Action that generates the contribution snake in your profile repository.
+
+---
+
+# 📡 LIVE METRICS
+
+<div align="center">
+
+<img src="https://img.shields.io/github/followers/sujalvk888?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/sujalvk888?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/last-commit/sujalvk888/sujalvk888?style=for-the-badge"/>
+
+<img src="https://komarev.com/ghpvc/?username=sujalvk888&style=for-the-badge"/>
+
+</div>
+
+---
+
+# ⚙ ENGINEERING STACK
+
+## 🤖 Artificial Intelligence
+
+<div align="center">
+
+| Technology | Experience |
+|------------|------------|
+| Python | ████████████████████ |
+| Machine Learning | ██████████████████ |
+| Deep Learning | ███████████████ |
+| Prompt Engineering | ███████████████████ |
+| LLM Integration | ███████████████████ |
+| Vector Search | ████████████████ |
+| Retrieval Augmented Generation | █████████████████ |
+
+</div>
+
+---
+
+## 🌐 Full Stack
+
+<div align="center">
+
+| Technology | Level |
+|------------|------|
+| React | █████████████████ |
+| Next.js | █████████████████ |
+| Node.js | ███████████████ |
+| Express | ███████████████ |
+| PostgreSQL | ███████████████ |
+| Supabase | ███████████████ |
+| Prisma ORM | ███████████████ |
+
+</div>
+
+---
+
+## 🎨 Design
+
+<div align="center">
+
+| Skill | Progress |
+|-------|----------|
+| UI Design | ██████████████████ |
+| UX Design | ███████████████ |
+| Responsive Design | ███████████████████ |
+| Figma | ██████████████ |
+| Design Systems | ███████████████ |
+
+</div>
+
+---
+
+# 🚀 MISSION TERMINAL
+
+```text
+Mission Name
+──────────────────────────────────────────────
+
+Build Intelligent AI Applications
+
+──────────────────────────────────────────────
+
+Current Objective
+
+Develop scalable production-ready AI systems
+that solve real-world problems.
+
+──────────────────────────────────────────────
+
+Difficulty
+
+★★★★★
+
+──────────────────────────────────────────────
+
+Completion
+
+████████████████░░░░░░░░░░ 70%
+
+──────────────────────────────────────────────
+
+Reward
+
+Professional AI Engineer
+```
+
+---
+
+# 📚 KNOWLEDGE TREE
+
+```text
+Artificial Intelligence
+│
+├── Machine Learning
+│
+├── Deep Learning
+│
+├── Computer Vision
+│
+├── Large Language Models
+│
+├── Prompt Engineering
+│
+├── Retrieval Augmented Generation
+│
+└── AI Agents
+
+Web Development
+│
+├── HTML
+├── CSS
+├── JavaScript
+├── TypeScript
+├── React
+├── Next.js
+├── Node.js
+├── Express
+├── PostgreSQL
+└── Supabase
+```
+
+---
+
+# 🎖 PLAYER ATTRIBUTES
+
+| Attribute | Rank |
+|-----------|------|
+| ⚡ Learning Speed | S |
+| 🤖 AI Engineering | A+ |
+| 💻 Coding | A |
+| 🌐 Full Stack | A |
+| 🎨 Creativity | A+ |
+| 🧠 Problem Solving | S |
+| 🚀 Innovation | A+ |
+| 📈 Growth Mindset | S |
+
+---
+
+# 📦 LOADOUT
+
+```yaml
+Primary Weapon:
+    Artificial Intelligence
+
+Secondary Weapon:
+    Full Stack Development
+
+Ultimate Ability:
+    Problem Solving
+
+Passive Ability:
+    Continuous Learning
+
+Support Skill:
+    UI / UX Design
+
+Current Buff:
+    Building AI Products
+```
+
+---
+
+# 🌍 OPEN FOR
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Full--Time-Open-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Internships-Welcome-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Freelance-Available-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Collaboration-Always%20Open-red?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 📡 COMMUNICATION TERMINAL
+
+> *(Continue in Part 4 — Final Part)*
