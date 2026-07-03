@@ -1,223 +1,303 @@
-<!-- ======================================================================= -->
-<!-- HERO SECTION                                                            -->
-<!-- ======================================================================= -->
+<!-- ========================================================= -->
+<!--                    AAA HERO TERMINAL                       -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-  <!-- TOP GRADIENT BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0e75b6,100:0D1117&height=160&section=header&animation=fadeIn" alt="Header Banner" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=270&color=gradient&customColorList=12,20,24&text=Sujal%20V%20Kanchan&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-  <!-- PROFILE AVATAR -->
-  <a href="https://github.com/sujalvk888">
-    <img src="https://github.com/sujalvk888.png" width="130" height="130" alt="Sujal V Kanchan" style="border-radius: 50%; border: 3px solid #38bdf8;" />
-  </a>
+<br>
 
-  # Sujal V Kanchan
-  ### **AI Specialist & Full-Stack Software Engineer**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=4FC3F7&center=true&vCenter=true&width=900&lines=AI+Engineer;Full-Stack+Developer;Building+Intelligent+Software;LLM+%7C+RAG+%7C+Machine+Learning;Turning+Ideas+Into+Production+Systems" />
 
-  <!-- TYPING ANIMATION -->
-  <a href="https://github.com/sujalvk888">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Architecting+Intelligent+LLM+%26+RAG+Pipelines;Building+High-Concurrency+Full-Stack+Web+Apps;B.E.+in+Information+Science+%26+Engineering;Turning+Complex+Data+into+Elegant+Systems" alt="Typing Banner" />
-  </a>
+<br><br>
 
-  <br/><br/>
+<img src="https://komarev.com/ghpvc/?username=sujalvk888&style=for-the-badge&color=0891B2"/>
 
-  <!-- UNIFIED CALL-TO-ACTION ACTION BAR -->
-  <a href="mailto:sujal.vk888@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=minutemailer&logoColor=38bdf8&borderColor=30363d" alt="Email" />
-  </a>
-  <a href="https://sujal-portfolio-sigmaverse.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=38bdf8&borderColor=30363d" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/sujal-v-kanchan">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38bdf8&borderColor=30363d" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/sujalvk888?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-0D1117?style=for-the-badge&logo=github&logoColor=38bdf8&borderColor=30363d" alt="GitHub" />
-  </a>
+<img src="https://img.shields.io/github/followers/sujalvk888?style=for-the-badge&logo=github&color=2563EB"/>
 
-  <br/><br/>
+<img src="https://img.shields.io/github/stars/sujalvk888?style=for-the-badge&logo=github&color=7C3AED"/>
 
-  <!-- PROFILE METRICS -->
-  <img src="https://komarev.com/ghpvc/?username=sujalvk888&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/sujalvk888?label=Followers&style=flat-square&color=0e75b6" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/sujalvk888?label=Total+Stars&style=flat-square&color=0e75b6" alt="Stars" />
+<img src="https://img.shields.io/badge/System-ONLINE-00C853?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Mission-ACTIVE-00BCD4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Status-AVAILABLE_FOR_WORK-1E88E5?style=for-the-badge"/>
 
 </div>
 
 ---
 
-<!-- ======================================================================= -->
-<!-- EXECUTIVE SUMMARY & AT A GLANCE                                         -->
-<!-- ======================================================================= -->
+# 🎮 AI COMMAND CENTER
 
-## ⚡ At a Glance
-
-I am a forward-thinking **Software Engineer** specializing in the intersection of **Applied Artificial Intelligence** and **Modern Web Systems**. With a formal engineering background in **Information Science (B.E.)**, I build distributed systems that seamlessly integrate Large Language Models (LLMs), high-performance vector retrieval pipelines, and responsive frontend interfaces.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎯 Core Focus</h3>
-      <ul>
-        <li><b>LLM Orchestration:</b> LangChain, OpenAI API, Custom RAG</li>
-        <li><b>Vector Databases:</b> Semantic search, automated chunking</li>
-        <li><b>Full-Stack Architecture:</b> Next.js, React, Node.js, TypeScript</li>
-        <li><b>System Design:</b> High-concurrency APIs, normalized schemas</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚀 Current Trajectory</h3>
-      <ul>
-        <li>🌱 Building autonomous document intelligence agents</li>
-        <li>💡 Exploring edge-deployed AI models & web streaming</li>
-        <li>🔭 Open for full-time <b>AI Engineer</b> & <b>Full-Stack</b> roles</li>
-        <li>☕ Passionate about clean code, UI design, & system speed</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                     AI DEVELOPER TERMINAL                   ║
+╠══════════════════════════════════════════════════════════════╣
+║ USER             :: Sujal V Kanchan                         ║
+║ ROLE             :: AI Engineer                             ║
+║ SPECIALIZATION   :: Full Stack Development                  ║
+║ PRIMARY FOCUS    :: Artificial Intelligence                 ║
+║ CURRENT STATUS   :: Building Intelligent Applications       ║
+║ LOCATION         :: India                                   ║
+║ SYSTEM           :: ONLINE                                  ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 ---
 
-<!-- ======================================================================= -->
-<!-- TECHNICAL ARSENAL                                                       -->
-<!-- ======================================================================= -->
-
-## 🧠 Technical Ecosystem
+# ⚡ QUICK ACCESS
 
 <div align="center">
 
-### **Artificial Intelligence & Data Engineering**
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv&perline=10" alt="AI Skills" />
+<a href="https://github.com/sujalvk888">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-<br/><br/>
-<img src="https://img.shields.io/badge/OpenAI-0D1117?style=flat-square&logo=openai&logoColor=38bdf8" alt="OpenAI" />
-<img src="https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=chainlink&logoColor=38bdf8" alt="LangChain" />
-<img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=38bdf8" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=38bdf8" alt="NumPy" />
 
-<br/><br/>
+<a href="https://linkedin.com/in/sujal-v-kanchan">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-### **Full-Stack Web & Architecture Architecture**
+<a href="https://sujal-portfolio-sigmaverse.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome"/>
+</a>
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,postgres,supabase,prisma,docker,git&perline=12" alt="Full Stack Skills" />
+<a href="mailto:sujal.vk888@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
 </div>
 
 ---
 
-<!-- ======================================================================= -->
-<!-- FEATURED PROJECTS                                                       -->
-<!-- ======================================================================= -->
+# 🛰 SYSTEM STATUS
 
-## 🛠️ Featured Engineering Architecture
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 <a href="https://github.com/sujalvk888/infidocs-ai">InfiDocs AI Platform</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Production--Ready-0e75b6?style=flat-square" alt="Status" />
-      </p>
-      <p>An enterprise-grade document intelligence platform enabling real-time conversational QA over unstructured PDF & DOCX datasets via LLM agents.</p>
-      <hr/>
-      <b>Core Architecture:</b><br/>
-      <code>TypeScript</code> • <code>Next.js</code> • <code>LangChain</code> • <code>Supabase Vector Store</code>
-      <br/><br/>
-      <b>Engineering Highlights:</b>
-      <ul>
-        <li>Architected semantic vector indexing for sub-second document retrieval.</li>
-        <li>Engineered a streaming LLM response interface with strict context grounding to eliminate hallucination.</li>
-        <li>Implemented automated document chunking and token optimization pipelines.</li>
-      </ul>
-      <br/>
-      <div align="center">
-        <a href="https://github.com/sujalvk888/infidocs-ai">
-          <img src="https://img.shields.io/badge/Explore_Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=38bdf8" alt="Source Code" />
-        </a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🏡 <a href="https://github.com/sujalvk888/airbnb-clone">Full-Stack Airbnb Platform</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Production--Ready-0e75b6?style=flat-square" alt="Status" />
-      </p>
-      <p>A high-concurrency booking engine replicating core Airbnb workflows, featuring secure authentication, dynamic filtering, and reservation locking.</p>
-      <hr/>
-      <b>Core Architecture:</b><br/>
-      <code>React</code> • <code>Node.js</code> • <code>Express</code> • <code>PostgreSQL</code> • <code>Prisma ORM</code>
-      <br/><br/>
-      <b>Engineering Highlights:</b>
-      <ul>
-        <li>Designed normalized, relational database schemas optimized for heavy read/write booking queries.</li>
-        <li>Integrated secure stateless JWT authentication and transactional booking integrity.</li>
-        <li>Optimized REST API payloads for sub-100ms UI state updates and dynamic listing renders.</li>
-      </ul>
-      <br/>
-      <div align="center">
-        <a href="https://github.com/sujalvk888/airbnb-clone">
-          <img src="https://img.shields.io/badge/Explore_Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=38bdf8" alt="Source Code" />
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
+| Module | Status |
+|--------|--------|
+| 🤖 AI Development | 🟢 Operational |
+| 🌐 Full Stack Development | 🟢 Operational |
+| 🧠 LLM Engineering | 🟢 Active |
+| 📚 Continuous Learning | 🟢 In Progress |
+| 🚀 Open Source | 🟢 Active |
+| 💼 Full-Time Opportunities | 🟢 Available |
 
 ---
 
-<!-- ======================================================================= -->
-<!-- GITHUB PERFORMANCE & ANALYTICS                                          -->
-<!-- ======================================================================= -->
+# 👨‍💻 DEVELOPER DOSSIER
 
-## 📊 Performance & Activity Metrics
+<img align="right" width="330" src="https://github-readme-stats.vercel.app/api?username=sujalvk888&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+### 👋 Hello!
+
+I'm **Sujal V Kanchan**, an aspiring **AI Engineer** passionate about building intelligent software powered by modern AI technologies.
+
+I enjoy designing scalable applications that combine elegant user experiences with robust backend architectures.
+
+My primary interests include:
+
+- 🤖 Artificial Intelligence
+- 🧠 Large Language Models
+- 📄 Retrieval-Augmented Generation (RAG)
+- 🌐 Full Stack Development
+- ⚡ High Performance Web Applications
+- ☁ Cloud-Based Software
+- 📊 Machine Learning
+- 🔥 Modern UI/UX
+
+---
+
+## 🎯 CURRENT OBJECTIVES
+
+```yaml
+Current Focus:
+
+✔ AI Engineering
+
+✔ Machine Learning
+
+✔ LLM Applications
+
+✔ Production Ready Web Apps
+
+✔ Open Source Contributions
+
+✔ Software Architecture
+
+✔ System Design
+
+✔ Clean UI/UX
+```
+
+---
+
+# 📌 CURRENT QUEST
+
+> ## 🚀 Primary Mission
+
+```text
+MISSION TITLE
+
+Build Production Ready AI Products
+
+MISSION STATUS
+
+██████████░░░░░░░░░ 55%
+
+OBJECTIVES
+
+✓ Learn Modern AI Stack
+
+✓ Build Real World Projects
+
+✓ Improve Software Architecture
+
+✓ Master Full Stack Engineering
+
+✓ Explore LLM Ecosystem
+
+✓ Contribute to Open Source
+
+Reward
+
+Professional AI Engineer
+```
+
+---
+
+# 🧠 SPECIALIZATION
+
+```text
+AI Engineering
+███████████████████░ 95%
+
+Full Stack Development
+█████████████████░░░ 90%
+
+Machine Learning
+███████████████░░░░░ 80%
+
+Cloud Computing
+██████████████░░░░░░ 75%
+
+UI / UX Design
+████████████████░░░░ 85%
+
+Problem Solving
+██████████████████░░ 92%
+```
+
+---
+
+# ⚙ TECHNOLOGY ARSENAL
+
+## 🧠 Artificial Intelligence
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=sujalvk888&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=c9d1d9&icon_color=0ea5e9" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujalvk888&theme=tokyonight&hide_border=true&background=0D1117&ring=38bdf8&fire=0ea5e9&currStreakLabel=38bdf8" alt="GitHub Streak" width="48%" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv"/>
 
-  <br/><br/>
+<br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalvk888&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=c9d1d9" alt="Top Languages" width="60%" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai"/>
+
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-Pipeline-0F172A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Prompt%20Engineering-1D4ED8?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Embeddings-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Vector%20Database-7C3AED?style=for-the-badge"/>
 
 </div>
 
 ---
 
-<!-- ======================================================================= -->
-<!-- CONNECT & COLLABORATE                                                   -->
-<!-- ======================================================================= -->
-
-## 🤝 Let's Build Intelligent Systems Together
-
-I am actively seeking **Full-Time AI Engineering, Data Science, and Full-Stack Software Engineering** opportunities where I can solve high-impact technical challenges. Whether you have a project idea, an open role, or just want to talk LLMs and architecture, feel free to reach out.
+## 💻 Programming Languages
 
 <div align="center">
 
-  <br/>
-
-  <a href="mailto:sujal.vk888@gmail.com">
-    <img src="https://img.shields.io/badge/Drop_a_Mail-0D1117?style=for-the-badge&logo=minutemailer&logoColor=38bdf8" alt="Email" />
-  </a>
-  <a href="https://sujal-portfolio-sigmaverse.vercel.app/">
-    <img src="https://img.shields.io/badge/Live_Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=38bdf8" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/sujal-v-kanchan">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" />
-  </a>
-
-  <br/><br/>
-
-  <p align="center">
-    <code>Architected with precision by Sujal V Kanchan • Designed for the future of web & AI</code>
-  </p>
-
-  <!-- BOTTOM GRADIENT WAVE -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0e75b6,100:0D1117&height=100&section=footer&animation=fadeIn" alt="Footer Wave" width="100%" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts"/>
 
 </div>
+
+---
+
+## 🌐 Front-End Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite"/>
+
+</div>
+
+---
+
+## ⚙ Backend Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+</div>
+
+---
+
+## 🗄 Database Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,prisma"/>
+
+</div>
+
+---
+
+## ☁ Cloud & DevOps
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,linux"/>
+
+</div>
+
+---
+
+## 🛠 Developer Toolbox
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman,github,npm"/>
+
+</div>
+
+---
+
+# 🎖 CORE STRENGTHS
+
+✅ AI Integration
+
+✅ API Development
+
+✅ Database Design
+
+✅ Responsive UI
+
+✅ Authentication
+
+✅ LLM Applications
+
+✅ Software Architecture
+
+✅ REST APIs
+
+✅ Clean Code
+
+✅ Problem Solving
+
+---
+
+# 📂 FEATURED MISSIONS
+
+> *(Continue in Part 2)*
