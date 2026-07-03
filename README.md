@@ -1,183 +1,167 @@
 <!--
-  =============================================================
-  GITHUB PROFILE README TEMPLATE — AI / ML / GENERATIVE AI ROLE
-  =============================================================
-  HOW TO USE:
-  1. Replace every [PLACEHOLDER] with your real information.
-  2. Replace every instance of "YOUR-GITHUB-USERNAME" with your
-     actual GitHub username (used in all widget URLs below).
-  3. See the "Customization Checklist" at the very bottom for a
-     complete list of everything you must edit before publishing.
-  4. Delete any section you don't need — but for a fresher
-     profile, keeping all sections is recommended.
-  =============================================================
+  =====================================================================
+  GITHUB PROFILE README — AI / ML / GENERATIVE AI ROLE (PREMIUM LAYOUT)
+  =====================================================================
+  HOW TO USE
+  1. Find-and-replace "YOUR-GITHUB-USERNAME" with your real GitHub
+     username EVERYWHERE (it drives every widget/image URL below).
+  2. Replace every [PLACEHOLDER] with your real information.
+  3. Repo cards under "Featured Projects" need real repo names —
+     replace REPO-NAME-1 ... REPO-NAME-6 with your actual repos.
+  4. Full checklist at the very bottom.
+  NOTE ON "AESTHETIC": GitHub strips custom CSS/JS from README
+  rendering, so the visual polish here comes entirely from image
+  composition — gradient banners, icon grids, aligned tables, and
+  a single consistent color theme (blue → violet) used everywhere.
+  Keep that palette consistent if you customize colors, or the
+  premium look breaks.
+  =====================================================================
 -->
 
 <div align="center">
 
-<!-- ============ HERO BANNER ============ -->
-<!-- Replace text= with your name/title, change colors as desired at capsule-render.vercel.app -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hi%20There!%20I'm%20%5BYOUR%20NAME%5D&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%5BYOUR%20TITLE%5D%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<!-- ================= HERO BANNER ================= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575FC,50:6A11CB,100:FF6EC7&height=260&section=header&text=%5BYOUR%20NAME%5D&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=%5BYOUR%20TITLE%5D%20%E2%80%A2%20AI%2FML%20%7C%20Generative%20AI%20%7C%20Deep%20Learning&descAlignY=52&descSize=17&fontAlign=50" width="100%"/>
 
-<!-- ============ TYPING SVG ============ -->
-<!-- Edit the "lines" query param to change the rotating text -->
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=800&lines=Aspiring+Machine+Learning+Engineer+%F0%9F%A4%96;Generative+AI+%7C+LLMs+%7C+Deep+Learning+Enthusiast;Turning+Data+Into+Decisions%2C+One+Model+at+a+Time;Always+Learning.+Always+Building.+Always+Curious." alt="Typing SVG" />
-</a>
+<!-- ================= TYPING SVG ================= -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3200&pause=900&color=6A11CB&center=true&vCenter=true&width=760&lines=Aspiring+Machine+Learning+Engineer+%F0%9F%A4%96;Generative+AI+%7C+LLMs+%7C+Deep+Learning;Turning+Data+Into+Decisions%2C+One+Model+at+a+Time;Open+to+AI%2FML+Opportunities+%F0%9F%9A%80" alt="Typing SVG"/>
 
 <br/>
 
-<!-- ============ PROFILE VIEW COUNTER + SOCIAL BADGES ============ -->
-<img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20Views&color=2575fc&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?label=Followers&style=for-the-badge&color=6a11cb" alt="GitHub Followers"/>
+<!-- ================= QUICK NAV ================= -->
+<p>
+<a href="#-about-me"><img src="https://img.shields.io/badge/About-2575FC?style=flat-square&logoColor=white"/></a>
+<a href="#%EF%B8%8F-technical-skills"><img src="https://img.shields.io/badge/Skills-6A11CB?style=flat-square&logoColor=white"/></a>
+<a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-2575FC?style=flat-square&logoColor=white"/></a>
+<a href="#-github-analytics"><img src="https://img.shields.io/badge/Analytics-6A11CB?style=flat-square&logoColor=white"/></a>
+<a href="#-connect-with-me"><img src="https://img.shields.io/badge/Contact-2575FC?style=flat-square&logoColor=white"/></a>
+</p>
+
+<!-- ================= STATUS BADGES ================= -->
+<img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20Views&color=6A11CB&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?label=Followers&style=flat-square&color=2575FC"/>
+<img src="https://img.shields.io/badge/Open%20to-AI%2FML%20Roles-brightgreen?style=flat-square"/>
+<img src="https://img.shields.io/badge/Based%20in-%5BYOUR%20LOCATION%5D-informational?style=flat-square"/>
 
 <br/><br/>
 
-<!-- ============ CONTACT / SOCIAL BADGES ============ -->
-<a href="mailto:[YOUR EMAIL]">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="[YOUR LINKEDIN URL]">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="[YOUR PORTFOLIO]">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="[YOUR RESUME LINK]">
-  <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume"/>
-</a>
-<a href="[YOUR WEBSITE]">
-  <img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/>
-</a>
+<a href="mailto:[YOUR EMAIL]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="[YOUR LINKEDIN URL]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="[YOUR PORTFOLIO]"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="[YOUR RESUME LINK]"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"/></a>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 </div>
 
-<br/>
+<!-- ================= ABOUT ME ================= -->
+### 🧠 About Me
 
-<!-- ============ ABOUT ME ============ -->
-## 🧠 About Me
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/github-metrics.svg" alt="decorative graphic - replace or remove if desired"/>
-
-- 🔭 I'm currently working on **[PROJECT/RESEARCH TOPIC PLACEHOLDER]**
-- 🌱 I'm currently learning **[TECHNOLOGY/SKILL PLACEHOLDER]**
-- 🎯 2026 Goal: **[YOUR CAREER GOAL PLACEHOLDER]**
+- 🔭 Currently working on **[PROJECT/RESEARCH TOPIC PLACEHOLDER]**
+- 🌱 Currently learning **[TECHNOLOGY/SKILL PLACEHOLDER]**
+- 🎯 2026 goal: **[YOUR CAREER GOAL PLACEHOLDER]**
 - 💬 Ask me about **[TOPIC 1]**, **[TOPIC 2]**, or **[TOPIC 3]**
-- ⚡ Fun fact: **[FUN FACT PLACEHOLDER]**
-- 📍 Based in **[YOUR LOCATION]**
-- 🎓 **[YOUR DEGREE PLACEHOLDER]** student/graduate at **[YOUR UNIVERSITY PLACEHOLDER]**
+- 🎓 **[YOUR DEGREE PLACEHOLDER]** at **[YOUR UNIVERSITY PLACEHOLDER]**
+- 📫 Reach me at **[YOUR EMAIL]**
 
 > *"[SHORT PERSONAL TAGLINE PLACEHOLDER — e.g., 'Building intelligent systems, one experiment at a time.']"*
 
-<br/>
-
----
-
-<!-- ============ CAREER OBJECTIVE ============ -->
-## 🎯 Career Objective
-
-<table>
-<tr>
-<td>
-
-**[YOUR CAREER OBJECTIVE PARAGRAPH PLACEHOLDER]**
-
-A motivated and detail-oriented fresher passionate about Artificial Intelligence and Machine Learning, seeking to leverage a strong foundation in **[CORE SKILL 1]**, **[CORE SKILL 2]**, and **[CORE SKILL 3]** to contribute to impactful AI/ML solutions as a **[TARGET ROLE — e.g., Machine Learning Engineer / AI Specialist / Generative AI Engineer]**. Eager to apply academic knowledge and hands-on project experience to real-world problems while continuously growing under mentorship in a collaborative, innovation-driven environment.
-
+</td>
+<td width="40%" valign="top" align="center">
+<img src="https://placehold.co/380x260/0d1117/6A11CB?text=Your+Photo+or+GIF+Here&font=roboto" width="100%"/>
+<sub>Replace this placeholder with a photo, coding GIF, or short demo clip.</sub>
 </td>
 </tr>
 </table>
 
----
+<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/></div>
 
-<!-- ============ AI SPECIALIZATION INTERESTS ============ -->
-## 🔬 AI Specialization Interests
+### 🎯 Career Objective
+
+> **[YOUR CAREER OBJECTIVE PARAGRAPH PLACEHOLDER]**
+>
+> A motivated, detail-oriented fresher passionate about Artificial Intelligence and Machine Learning, seeking to apply a strong foundation in **[CORE SKILL 1]**, **[CORE SKILL 2]**, and **[CORE SKILL 3]** toward impactful AI/ML solutions as a **[TARGET ROLE]**. Eager to grow under mentorship in a collaborative, innovation-driven environment.
+
+<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/></div>
+
+### 🔬 AI Specialization Interests
 
 <div align="center">
 
-| Area | Focus |
-|------|-------|
-| 🤖 **Machine Learning** | [SUPERVISED / UNSUPERVISED / ENSEMBLE METHODS PLACEHOLDER] |
-| 🧠 **Deep Learning** | [CNNs / RNNs / TRANSFORMERS PLACEHOLDER] |
-| 💬 **Natural Language Processing** | [LLMs / TEXT CLASSIFICATION / SUMMARIZATION PLACEHOLDER] |
-| 🎨 **Generative AI** | [DIFFUSION MODELS / GANs / PROMPT ENGINEERING PLACEHOLDER] |
-| 👁️ **Computer Vision** | [OBJECT DETECTION / IMAGE SEGMENTATION PLACEHOLDER] |
-| 📊 **MLOps** | [MODEL DEPLOYMENT / CI-CD FOR ML PLACEHOLDER] |
-| 🔍 **Explainable AI** | [SHAP / LIME / MODEL INTERPRETABILITY PLACEHOLDER] |
+| 🤖 Machine Learning | 🧠 Deep Learning | 💬 NLP | 🎨 Generative AI | 👁️ Computer Vision | 📊 MLOps |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| [SUPERVISED / ENSEMBLE PLACEHOLDER] | [CNNs / TRANSFORMERS PLACEHOLDER] | [LLMs / SUMMARIZATION PLACEHOLDER] | [DIFFUSION / GANs / PROMPTING PLACEHOLDER] | [DETECTION / SEGMENTATION PLACEHOLDER] | [DEPLOYMENT / CI-CD PLACEHOLDER] |
 
 </div>
 
----
+<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/></div>
 
-<!-- ============ TECHNICAL SKILLS ============ -->
-## 🛠️ Technical Skills
+### 🛠️ Technical Skills
 
-### 💻 Programming Languages
 <div align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=py,cpp,java,js" /> &nbsp;
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-<!-- Add/remove languages as needed -->
-</div>
 
-### 🤖 AI / ML Frameworks
-<div align="center">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<br/><br/>
+
+**AI / ML Frameworks**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /> &nbsp;
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-</div>
 
-### 📊 Data Science Tools
-<div align="center">
+<br/><br/>
+
+**Data Science Tools**
+<br/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-</div>
 
-### ☁️ Cloud Platforms
-<div align="center">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-</div>
+<br/><br/>
 
-### 🗄️ Databases
-<div align="center">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</div>
+**Cloud Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure" />
 
-### ⚙️ DevOps & Tools
-<div align="center">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<br/><br/>
+
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
+
+<br/><br/>
+
+**DevOps & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,kubernetes" /> &nbsp;
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
 </div>
 
----
+<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/></div>
 
-<!-- ============ CURRENTLY LEARNING ============ -->
-## 📚 Currently Learning
+### 📚 Currently Learning
 
 <div align="center">
 
-![Learning](https://img.shields.io/badge/-[SKILL%20PLACEHOLDER%201]-blueviolet?style=for-the-badge)
-![Learning](https://img.shields.io/badge/-[SKILL%20PLACEHOLDER%202]-blue?style=for-the-badge)
-![Learning](https://img.shields.io/badge/-[SKILL%20PLACEHOLDER%203]-9cf?style=for-the-badge)
+![Learning](https://img.shields.io/badge/-%5BSKILL%20PLACEHOLDER%201%5D-2575FC?style=for-the-badge)
+![Learning](https://img.shields.io/badge/-%5BSKILL%20PLACEHOLDER%202%5D-6A11CB?style=for-the-badge)
+![Learning](https://img.shields.io/badge/-%5BSKILL%20PLACEHOLDER%203%5D-FF6EC7?style=for-the-badge)
 
 </div>
 
@@ -185,264 +169,192 @@ A motivated and detail-oriented fresher passionate about Artificial Intelligence
 - 📖 **[TOPIC PLACEHOLDER]** — deep-diving via **[RESOURCE PLACEHOLDER]**
 - 📖 **[FRAMEWORK/TOOL PLACEHOLDER]** — hands-on practice through personal projects
 
----
+<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/></div>
 
-<!-- ============ FEATURED PROJECTS ============ -->
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
-<!-- Replace each project card with your real project details and links -->
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔹 [PROJECT NAME 1]
-[ONE–TWO LINE PROJECT DESCRIPTION PLACEHOLDER — e.g., "An end-to-end ML pipeline that predicts X using Y algorithm with Z% accuracy."]
-
-`[TECH STACK PLACEHOLDER]`
-
-[![Repo](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/YOUR-GITHUB-USERNAME/PROJECT-1-REPO)
-[![Demo](https://img.shields.io/badge/Live-Demo-2575fc?style=flat-square&logo=vercel)]([DEMO LINK PLACEHOLDER])
-
-</td>
-<td width="50%">
-
-### 🔹 [PROJECT NAME 2]
-[ONE–TWO LINE PROJECT DESCRIPTION PLACEHOLDER — e.g., "A generative AI chatbot built with an LLM and RAG pipeline for domain-specific Q&A."]
-
-`[TECH STACK PLACEHOLDER]`
-
-[![Repo](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/YOUR-GITHUB-USERNAME/PROJECT-2-REPO)
-[![Demo](https://img.shields.io/badge/Live-Demo-2575fc?style=flat-square&logo=vercel)]([DEMO LINK PLACEHOLDER])
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🔹 [PROJECT NAME 3]
-[ONE–TWO LINE PROJECT DESCRIPTION PLACEHOLDER — e.g., "A computer vision model for real-time object detection deployed via Flask API."]
-
-`[TECH STACK PLACEHOLDER]`
-
-[![Repo](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/YOUR-GITHUB-USERNAME/PROJECT-3-REPO)
-[![Demo](https://img.shields.io/badge/Live-Demo-2575fc?style=flat-square&logo=vercel)]([DEMO LINK PLACEHOLDER])
-
-</td>
-<td width="50%">
-
-### 🔹 [PROJECT NAME 4]
-[ONE–TWO LINE PROJECT DESCRIPTION PLACEHOLDER — e.g., "A time-series forecasting dashboard using LSTM networks and interactive visualizations."]
-
-`[TECH STACK PLACEHOLDER]`
-
-[![Repo](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/YOUR-GITHUB-USERNAME/PROJECT-4-REPO)
-[![Demo](https://img.shields.io/badge/Live-Demo-2575fc?style=flat-square&logo=vercel)]([DEMO LINK PLACEHOLDER])
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🔹 [PROJECT NAME 5]
-[ONE–TWO LINE PROJECT DESCRIPTION PLACEHOLDER — e.g., "A fine-tuned transformer model for sentiment analysis on social media data."]
-
-`[TECH STACK PLACEHOLDER]`
-
-[![Repo](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/YOUR-GITHUB-USERNAME/PROJECT-5-REPO)
-[![Demo](https://img.shields.io/badge/Live-Demo-2575fc?style=flat-square&logo=vercel)]([DEMO LINK PLACEHOLDER])
-
-</td>
-<td width="50%">
-
-### 🔹 [PROJECT NAME 6]
-[ONE–TWO LINE PROJECT DESCRIPTION PLACEHOLDER — e.g., "An MLOps pipeline automating model training, testing, and deployment with CI/CD."]
-
-`[TECH STACK PLACEHOLDER]`
-
-[![Repo](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/YOUR-GITHUB-USERNAME/PROJECT-6-REPO)
-[![Demo](https://img.shields.io/badge/Live-Demo-2575fc?style=flat-square&logo=vercel)]([DEMO LINK PLACEHOLDER])
-
-</td>
-</tr>
-</table>
+<!-- These are live GitHub "repo pin" cards — they auto-pull your repo's
+     description, stars, forks, and language from GitHub. Replace
+     REPO-NAME-# with your actual repository names (case-sensitive). -->
 
 <div align="center">
 
-📌 *[LINK TO FULL PROJECT ARCHIVE / PORTFOLIO PLACEHOLDER]*
+<a href="https://github.com/YOUR-GITHUB-USERNAME/REPO-NAME-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-GITHUB-USERNAME&repo=REPO-NAME-1&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/YOUR-GITHUB-USERNAME/REPO-NAME-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-GITHUB-USERNAME&repo=REPO-NAME-2&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/YOUR-GITHUB-USERNAME/REPO-NAME-3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-GITHUB-USERNAME&repo=REPO-NAME-3&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/YOUR-GITHUB-USERNAME/REPO-NAME-4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-GITHUB-USERNAME&repo=REPO-NAME-4&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/YOUR-GITHUB-USERNAME/REPO-NAME-5"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-GITHUB-USERNAME&repo=REPO-NAME-5&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/YOUR-GITHUB-USERNAME/REPO-NAME-6"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-GITHUB-USERNAME&repo=REPO-NAME-6&theme=tokyonight&hide_border=true" /></a>
 
 </div>
-
----
-
-<!-- ============ OPEN SOURCE CONTRIBUTIONS ============ -->
-## 🌐 Open Source Contributions
-
-<table>
-<tr>
-<th>Repository</th>
-<th>Contribution</th>
-<th>Status</th>
-</tr>
-<tr>
-<td>[REPO NAME 1 PLACEHOLDER]</td>
-<td>[BRIEF DESCRIPTION OF PR/ISSUE PLACEHOLDER]</td>
-<td>[MERGED / IN REVIEW / OPEN]</td>
-</tr>
-<tr>
-<td>[REPO NAME 2 PLACEHOLDER]</td>
-<td>[BRIEF DESCRIPTION OF PR/ISSUE PLACEHOLDER]</td>
-<td>[MERGED / IN REVIEW / OPEN]</td>
-</tr>
-</table>
-
-<div align="center">
-<img src="https://img.shields.io/badge/dynamic/json?color=2575fc&label=Pull%20Requests&query=%24.total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3AYOUR-GITHUB-USERNAME%2Btype%3Apr&style=for-the-badge" alt="PR Count"/>
-</div>
-
----
-
-<!-- ============ CERTIFICATIONS ============ -->
-## 🏆 Certifications
-
-- 🎖️ **[CERTIFICATION NAME 1 PLACEHOLDER]** — *[ISSUING ORGANIZATION]*, [MONTH YEAR]
-- 🎖️ **[CERTIFICATION NAME 2 PLACEHOLDER]** — *[ISSUING ORGANIZATION]*, [MONTH YEAR]
-- 🎖️ **[CERTIFICATION NAME 3 PLACEHOLDER]** — *[ISSUING ORGANIZATION]*, [MONTH YEAR]
-- 🎖️ **[CERTIFICATION NAME 4 PLACEHOLDER]** — *[ISSUING ORGANIZATION]*, [MONTH YEAR]
 
 <details>
-<summary>📜 View Credential Links</summary>
+<summary><b>📋 Project details (tech stack &amp; live demos)</b></summary>
 <br/>
 
-- [CERTIFICATION 1 CREDENTIAL LINK PLACEHOLDER]
-- [CERTIFICATION 2 CREDENTIAL LINK PLACEHOLDER]
-- [CERTIFICATION 3 CREDENTIAL LINK PLACEHOLDER]
-- [CERTIFICATION 4 CREDENTIAL LINK PLACEHOLDER]
+| Project | Tech Stack | Live Demo |
+|---|---|---|
+| [PROJECT NAME 1] — [ONE-LINE DESCRIPTION PLACEHOLDER] | `[TECH STACK PLACEHOLDER]` | [DEMO LINK PLACEHOLDER] |
+| [PROJECT NAME 2] — [ONE-LINE DESCRIPTION PLACEHOLDER] | `[TECH STACK PLACEHOLDER]` | [DEMO LINK PLACEHOLDER] |
+| [PROJECT NAME 3] — [ONE-LINE DESCRIPTION PLACEHOLDER] | `[TECH STACK PLACEHOLDER]` | [DEMO LINK PLACEHOLDER] |
+| [PROJECT NAME 4] — [ONE-LINE DESCRIPTION PLACEHOLDER] | `[TECH STACK PLACEHOLDER]` | [DEMO LINK PLACEHOLDER] |
+| [PROJECT NAME 5] — [ONE-LINE DESCRIPTION PLACEHOLDER] | `[TECH STACK PLACEHOLDER]` | [DEMO LINK PLACEHOLDER] |
+| [PROJECT NAME 6] — [ONE-LINE DESCRIPTION PLACEHOLDER] | `[TECH STACK PLACEHOLDER]` | [DEMO LINK PLACEHOLDER] |
 
 </details>
 
----
+<div align="center">📌 <i>[LINK TO FULL PROJECT ARCHIVE / PORTFOLIO PLACEHOLDER]</i></div>
 
-<!-- ============ EDUCATION ============ -->
-## 🎓 Education
+<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/></div>
 
-<table>
-<tr>
-<td>
-
-**[DEGREE NAME PLACEHOLDER]**, [MAJOR/SPECIALIZATION PLACEHOLDER]
-📍 [UNIVERSITY/COLLEGE NAME PLACEHOLDER] | 🗓️ [START YEAR] – [END YEAR]
-📊 CGPA/Percentage: **[SCORE PLACEHOLDER]**
-
-**[PRIOR EDUCATION — e.g., HIGHER SECONDARY PLACEHOLDER]**
-📍 [SCHOOL NAME PLACEHOLDER] | 🗓️ [YEAR]
-📊 Score: **[SCORE PLACEHOLDER]**
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ============ EXPERIENCE ============ -->
-## 💼 Experience
-
-<table>
-<tr>
-<td>
-
-**[INTERNSHIP / TRAINEE ROLE TITLE PLACEHOLDER]**
-🏢 [COMPANY / ORGANIZATION NAME PLACEHOLDER] | 🗓️ [START MONTH YEAR] – [END MONTH YEAR]
-
-- [KEY RESPONSIBILITY / CONTRIBUTION PLACEHOLDER]
-- [KEY RESPONSIBILITY / CONTRIBUTION PLACEHOLDER]
-- [MEASURABLE IMPACT / RESULT PLACEHOLDER]
-
-</td>
-</tr>
-</table>
-
-> 💡 *Note: As a fresher, this section can also highlight academic research assistantships, virtual internships, or freelance AI/ML project work.*
-
----
-
-<!-- ============ ACHIEVEMENTS ============ -->
-## 🏅 Achievements
-
-- 🥇 **[ACHIEVEMENT 1 PLACEHOLDER]** — [HACKATHON/COMPETITION NAME], [YEAR]
-- 🥈 **[ACHIEVEMENT 2 PLACEHOLDER]** — [EVENT/ORGANIZATION NAME], [YEAR]
-- 🌟 **[ACHIEVEMENT 3 PLACEHOLDER]** — [DESCRIPTION]
-- 📝 **[PUBLICATION / RESEARCH PAPER PLACEHOLDER]** — [JOURNAL/CONFERENCE NAME], [YEAR]
-
----
-
-<!-- ============ GITHUB ANALYTICS ============ -->
-## 📊 GitHub Analytics
+### 🌐 Open Source Contributions
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+| Repository | Contribution | Status |
+|:---|:---|:---:|
+| [REPO NAME 1 PLACEHOLDER] | [BRIEF DESCRIPTION PLACEHOLDER] | 🟢 [MERGED] |
+| [REPO NAME 2 PLACEHOLDER] | [BRIEF DESCRIPTION PLACEHOLDER] | 🟡 [IN REVIEW] |
+
+<img src="https://img.shields.io/badge/dynamic/json?color=6A11CB&label=Pull%20Requests&query=%24.total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3AYOUR-GITHUB-USERNAME%2Btype%3Apr&style=for-the-badge"/>
+
+</div>
+
+<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/></div>
+
+### 🏆 Certifications
+
+<div align="center">
+
+| Certification | Issuer | Date | Credential |
+|:---|:---|:---:|:---:|
+| [CERTIFICATION NAME 1] | [ISSUING ORGANIZATION] | [MONTH YEAR] | [🔗 Link]([CREDENTIAL LINK]) |
+| [CERTIFICATION NAME 2] | [ISSUING ORGANIZATION] | [MONTH YEAR] | [🔗 Link]([CREDENTIAL LINK]) |
+| [CERTIFICATION NAME 3] | [ISSUING ORGANIZATION] | [MONTH YEAR] | [🔗 Link]([CREDENTIAL LINK]) |
+| [CERTIFICATION NAME 4] | [ISSUING ORGANIZATION] | [MONTH YEAR] | [🔗 Link]([CREDENTIAL LINK]) |
+
+</div>
+
+<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/></div>
+
+### 🎓 Education &nbsp;&amp;&nbsp; 💼 Experience
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🎓 Education**
+
+**[DEGREE NAME PLACEHOLDER]**, [MAJOR PLACEHOLDER]
+[UNIVERSITY/COLLEGE NAME PLACEHOLDER]
+🗓️ [START YEAR] – [END YEAR] &nbsp;•&nbsp; 📊 [SCORE PLACEHOLDER]
+
+**[PRIOR EDUCATION PLACEHOLDER]**
+[SCHOOL NAME PLACEHOLDER]
+🗓️ [YEAR] &nbsp;•&nbsp; 📊 [SCORE PLACEHOLDER]
+
+</td>
+<td width="50%" valign="top">
+
+**💼 Experience**
+
+**[INTERNSHIP / ROLE TITLE PLACEHOLDER]**
+[COMPANY / ORGANIZATION NAME PLACEHOLDER]
+🗓️ [START MONTH YEAR] – [END MONTH YEAR]
+- [KEY RESPONSIBILITY PLACEHOLDER]
+- [MEASURABLE IMPACT / RESULT PLACEHOLDER]
+
+<sub>💡 Freshers: academic research assistantships, virtual internships, or freelance AI/ML work all belong here.</sub>
+
+</td>
+</tr>
+</table>
+
+<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/></div>
+
+### 🏅 Achievements
+
+<div align="center">
+
+![Achievement](https://img.shields.io/badge/🥇-%5BACHIEVEMENT%201%20PLACEHOLDER%5D-2575FC?style=for-the-badge)
+![Achievement](https://img.shields.io/badge/🥈-%5BACHIEVEMENT%202%20PLACEHOLDER%5D-6A11CB?style=for-the-badge)
+![Achievement](https://img.shields.io/badge/🌟-%5BACHIEVEMENT%203%20PLACEHOLDER%5D-FF6EC7?style=for-the-badge)
+
+</div>
+
+- 📝 **[PUBLICATION / RESEARCH PAPER PLACEHOLDER]** — *[JOURNAL/CONFERENCE NAME]*, [YEAR]
+
+<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/></div>
+
+### 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" width="70%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&hide_border=true" width="95%"/>
 
 </div>
 
----
+<!--
+OPTIONAL — CONTRIBUTION SNAKE ANIMATION
+Adds an animated snake that "eats" your contribution graph — a very
+popular premium touch. Requires a one-time GitHub Action setup:
+1. Create .github/workflows/snake.yml in this repo using the
+   Platane/snk action (search "Platane/snk github action" for the
+   official workflow YAML).
+2. Once the action runs once, uncomment the line below.
 
-<!-- ============ CODING ACTIVITY ============ -->
-## 💻 Coding Activity & Problem Solving
+<div align="center">
+<img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+</div>
+-->
+
+<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/></div>
+
+### 💻 Coding Activity & Problem Solving
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LeetCode-[YOUR%20PROBLEM%20COUNT]%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-<img src="https://img.shields.io/badge/HackerRank-[YOUR%20BADGE%20LEVEL]-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-<img src="https://img.shields.io/badge/CodeChef-[YOUR%20RATING]-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-<img src="https://img.shields.io/badge/Codeforces-[YOUR%20RATING]-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+<img src="https://img.shields.io/badge/LeetCode-%5BPROBLEM%20COUNT%5D%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/HackerRank-%5BBADGE%20LEVEL%5D-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeChef-%5BRATING%5D-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<img src="https://img.shields.io/badge/Codeforces-%5BRATING%5D-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+
+| Platform | Handle | Profile |
+|:---|:---:|:---:|
+| LeetCode | [YOUR HANDLE] | [🔗 Link]([LEETCODE PROFILE LINK]) |
+| HackerRank | [YOUR HANDLE] | [🔗 Link]([HACKERRANK PROFILE LINK]) |
+| CodeChef | [YOUR HANDLE] | [🔗 Link]([CODECHEF PROFILE LINK]) |
+| Codeforces | [YOUR HANDLE] | [🔗 Link]([CODEFORCES PROFILE LINK]) |
 
 </div>
 
-| Platform | Handle | Profile Link |
-|----------|--------|--------------|
-| LeetCode | [YOUR LEETCODE HANDLE] | [LEETCODE PROFILE LINK PLACEHOLDER] |
-| HackerRank | [YOUR HACKERRANK HANDLE] | [HACKERRANK PROFILE LINK PLACEHOLDER] |
-| CodeChef | [YOUR CODECHEF HANDLE] | [CODECHEF PROFILE LINK PLACEHOLDER] |
-| Codeforces | [YOUR CODEFORCES HANDLE] | [CODEFORCES PROFILE LINK PLACEHOLDER] |
+<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/></div>
 
----
+### ✍️ Latest Blog Posts
 
-<!-- ============ BLOG SECTION ============ -->
-## ✍️ Latest Blog Posts
-
-<!-- This section can auto-update via the blog-post-workflow GitHub Action -->
 <!-- BLOG-POST-LIST:START -->
-- [BLOG POST TITLE 1 PLACEHOLDER]([BLOG POST 1 LINK PLACEHOLDER])
-- [BLOG POST TITLE 2 PLACEHOLDER]([BLOG POST 2 LINK PLACEHOLDER])
-- [BLOG POST TITLE 3 PLACEHOLDER]([BLOG POST 3 LINK PLACEHOLDER])
+- [BLOG POST TITLE 1 PLACEHOLDER]([BLOG POST 1 LINK])
+- [BLOG POST TITLE 2 PLACEHOLDER]([BLOG POST 2 LINK])
+- [BLOG POST TITLE 3 PLACEHOLDER]([BLOG POST 3 LINK])
 <!-- BLOG-POST-LIST:END -->
+<div align="center"><sub>This list can auto-update via the <code>blog-post-workflow</code> GitHub Action (search GitHub Marketplace).</sub></div>
 
-<div align="center">
+<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/></div>
 
-[![Blog](https://img.shields.io/badge/Read_More_on_my_Blog-02303A?style=for-the-badge&logo=hashnode&logoColor=white)]([YOUR BLOG URL PLACEHOLDER])
-
-</div>
-
----
-
-<!-- ============ CONNECT WITH ME ============ -->
-## 🤝 Connect With Me
+### 🤝 Connect With Me
 
 <div align="center">
 
@@ -456,51 +368,38 @@ A motivated and detail-oriented fresher passionate about Artificial Intelligence
 
 </div>
 
----
+<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/></div>
 
-<!-- ============ FUN FACTS ============ -->
-## 🎉 Fun Facts
+### 🎉 Fun Facts
 
-<table>
-<tr>
-<td>
+<div align="center">
 
-- ☕ **[FUN FACT 1 PLACEHOLDER — e.g., 'I debug better with coffee than without.']**
-- 🎮 **[FUN FACT 2 PLACEHOLDER — e.g., hobby/interest]**
-- 📚 **[FUN FACT 3 PLACEHOLDER — e.g., favorite AI-related book/paper]**
-- 🌍 **[FUN FACT 4 PLACEHOLDER — e.g., languages spoken]**
-- 🏃 **[FUN FACT 5 PLACEHOLDER — e.g., a non-tech hobby]**
+| ☕ | 🎮 | 📚 | 🌍 | 🏃 |
+|:---:|:---:|:---:|:---:|:---:|
+| [FUN FACT 1] | [FUN FACT 2] | [FUN FACT 3] | [FUN FACT 4] | [FUN FACT 5] |
 
-</td>
-</tr>
-</table>
+</div>
 
----
+<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/></div>
 
-<!-- ============ INSPIRATIONAL QUOTE ============ -->
 <div align="center">
 
 ### 💭 Quote I Live By
 
-> *"[INSPIRATIONAL AI/TECH QUOTE PLACEHOLDER — e.g., 'The question of whether a computer can think is no more interesting than the question of whether a submarine can swim.']"*
+> *"[INSPIRATIONAL AI/TECH QUOTE PLACEHOLDER]"*
 > — **[QUOTE AUTHOR PLACEHOLDER]**
 
-<br/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="60%"/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+<br/><br/>
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575FC,50:6A11CB,100:FF6EC7&height=150&section=footer" width="100%"/>
 
----
+**⭐ Thanks for visiting — let's build something intelligent together!**
 
-<div align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR-GITHUB-USERNAME.YOUR-GITHUB-USERNAME"/>
 
-<!-- ============ FOOTER / VISITOR BADGE ============ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer" width="100%"/>
-
-**⭐ Thank you for visiting my profile! Let's build something intelligent together. ⭐**
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR-GITHUB-USERNAME.YOUR-GITHUB-USERNAME" alt="Visitor Badge"/>
+<a href="#readme-top"><img src="https://img.shields.io/badge/⬆-Back%20to%20Top-2575FC?style=flat-square"/></a>
 
 </div>
 
@@ -508,113 +407,77 @@ A motivated and detail-oriented fresher passionate about Artificial Intelligence
 =====================================================================
                      CUSTOMIZATION CHECKLIST
 =====================================================================
-Before publishing this README, replace ALL of the following:
+GLOBAL
+[ ] YOUR-GITHUB-USERNAME  – replace in EVERY widget URL (views, stats,
+    streak, trophies, activity graph, top-langs, PR badge, pin cards,
+    visitor badge, snake animation section if enabled)
 
 PERSONAL INFO
-[ ] [YOUR NAME]                      – Your full name (hero banner)
-[ ] [YOUR TITLE]                     – Your professional title
-[ ] [YOUR EMAIL]                     – Your contact email (2 locations)
-[ ] [YOUR LINKEDIN URL]              – Your LinkedIn profile link (2 locations)
-[ ] [YOUR PORTFOLIO]                 – Your portfolio website link
-[ ] [YOUR LOCATION]                  – Your city/country
-[ ] [YOUR WEBSITE]                   – Your personal website link
-[ ] [YOUR RESUME LINK]               – Hosted resume/CV link
-[ ] YOUR-GITHUB-USERNAME             – Replace EVERYWHERE (all widget URLs,
-                                        stats cards, streak stats, trophies,
-                                        contribution graph, visitor badge,
-                                        profile view counter, PR count badge)
+[ ] [YOUR NAME] / [YOUR TITLE]        – hero banner
+[ ] [YOUR EMAIL]                      – 3 locations
+[ ] [YOUR LINKEDIN URL]               – 2 locations
+[ ] [YOUR PORTFOLIO] / [YOUR RESUME LINK]
+[ ] [YOUR LOCATION]
 
-ABOUT ME
-[ ] [PROJECT/RESEARCH TOPIC PLACEHOLDER]
-[ ] [TECHNOLOGY/SKILL PLACEHOLDER]
-[ ] [YOUR CAREER GOAL PLACEHOLDER]
-[ ] [TOPIC 1] / [TOPIC 2] / [TOPIC 3]
-[ ] [FUN FACT PLACEHOLDER]
-[ ] [YOUR DEGREE PLACEHOLDER] / [YOUR UNIVERSITY PLACEHOLDER]
-[ ] [SHORT PERSONAL TAGLINE PLACEHOLDER]
+ABOUT / OBJECTIVE
+[ ] Bullet placeholders under About Me (project, learning, goal, topics,
+    degree, university, tagline)
+[ ] Replace the placehold.co image with a real photo/GIF (or delete
+    the right-hand table cell if you prefer a single-column About)
+[ ] Career objective paragraph + 3 core skills + target role
 
-CAREER OBJECTIVE
-[ ] [YOUR CAREER OBJECTIVE PARAGRAPH PLACEHOLDER]
-[ ] [CORE SKILL 1] / [CORE SKILL 2] / [CORE SKILL 3]
-[ ] [TARGET ROLE]
+SKILLS
+[ ] Skillicons rows render automatically — just make sure the icon
+    codes still match tools you actually use (swap/remove as needed)
+[ ] Supplementary shields.io badges (SQL, R, Keras, scikit-learn,
+    HuggingFace, LangChain, OpenCV, data tools, GitHub Actions)
 
-AI SPECIALIZATION INTERESTS
-[ ] All bracketed focus-area descriptions in the table
+SPECIALIZATION TABLE
+[ ] All 6 bracketed cells
 
 CURRENTLY LEARNING
-[ ] [SKILL PLACEHOLDER 1/2/3]
-[ ] [COURSE / CERTIFICATION NAME PLACEHOLDER] / [PLATFORM PLACEHOLDER]
-[ ] [TOPIC PLACEHOLDER] / [RESOURCE PLACEHOLDER]
-[ ] [FRAMEWORK/TOOL PLACEHOLDER]
+[ ] 3 skill badges + course/topic/resource lines
 
-FEATURED PROJECTS (x6)
-[ ] [PROJECT NAME 1–6]
-[ ] Project descriptions for each
-[ ] [TECH STACK PLACEHOLDER] for each
-[ ] PROJECT-#-REPO in GitHub links (x6)
-[ ] [DEMO LINK PLACEHOLDER] (x6)
-[ ] [LINK TO FULL PROJECT ARCHIVE / PORTFOLIO PLACEHOLDER]
+FEATURED PROJECTS
+[ ] REPO-NAME-1 through REPO-NAME-6 (must be real, PUBLIC repos on
+    your GitHub for the pin cards to render)
+[ ] Project name / description / tech stack / demo link rows in the
+    collapsible details table
+[ ] Full portfolio/archive link
 
-OPEN SOURCE CONTRIBUTIONS
-[ ] [REPO NAME 1/2 PLACEHOLDER]
-[ ] [BRIEF DESCRIPTION OF PR/ISSUE PLACEHOLDER] (x2)
-[ ] [MERGED / IN REVIEW / OPEN] status (x2)
+OPEN SOURCE
+[ ] Repo names, contribution descriptions, status
 
 CERTIFICATIONS
-[ ] [CERTIFICATION NAME 1–4 PLACEHOLDER]
-[ ] [ISSUING ORGANIZATION] (x4)
-[ ] [MONTH YEAR] (x4)
-[ ] [CERTIFICATION # CREDENTIAL LINK PLACEHOLDER] (x4)
+[ ] All 4 rows: name, issuer, date, credential link
 
-EDUCATION
-[ ] [DEGREE NAME PLACEHOLDER] / [MAJOR/SPECIALIZATION PLACEHOLDER]
-[ ] [UNIVERSITY/COLLEGE NAME PLACEHOLDER] / [START YEAR]–[END YEAR]
-[ ] [SCORE PLACEHOLDER] (x2)
-[ ] [PRIOR EDUCATION PLACEHOLDER] / [SCHOOL NAME PLACEHOLDER] / [YEAR]
-
-EXPERIENCE
-[ ] [INTERNSHIP / TRAINEE ROLE TITLE PLACEHOLDER]
-[ ] [COMPANY / ORGANIZATION NAME PLACEHOLDER]
-[ ] [START MONTH YEAR] – [END MONTH YEAR]
-[ ] Responsibility/impact bullet points (x3)
+EDUCATION & EXPERIENCE
+[ ] Degree, major, university, years, score (x2 entries)
+[ ] Role title, company, dates, responsibilities/impact
 
 ACHIEVEMENTS
-[ ] [ACHIEVEMENT 1–3 PLACEHOLDER]
-[ ] [HACKATHON/COMPETITION NAME] / [EVENT/ORGANIZATION NAME]
-[ ] [YEAR] (multiple)
-[ ] [PUBLICATION / RESEARCH PAPER PLACEHOLDER] / [JOURNAL/CONFERENCE NAME]
+[ ] 3 achievement badges + publication row
 
 CODING ACTIVITY
-[ ] [YOUR PROBLEM COUNT] (LeetCode badge)
-[ ] [YOUR BADGE LEVEL] (HackerRank badge)
-[ ] [YOUR RATING] (CodeChef badge, Codeforces badge)
-[ ] [YOUR LEETCODE/HACKERRANK/CODECHEF/CODEFORCES HANDLE] (x4)
-[ ] Corresponding profile links (x4)
+[ ] Problem count / badge level / ratings in the 4 top badges
+[ ] Handles + profile links in the table
 
-BLOG SECTION
-[ ] [BLOG POST TITLE 1–3 PLACEHOLDER] + links
-[ ] [YOUR BLOG URL PLACEHOLDER]
+BLOG
+[ ] 3 post titles + links, or set up blog-post-workflow Action
 
-CONNECT WITH ME
-[ ] [YOUR TWITTER/X URL]
-[ ] [YOUR KAGGLE URL]
-[ ] [YOUR MEDIUM URL]
-[ ] [YOUR INSTAGRAM URL]
-[ ] [YOUR DISCORD URL]
+CONNECT
+[ ] X / Kaggle / Medium / Instagram / Discord URLs
 
 FUN FACTS
-[ ] [FUN FACT 1–5 PLACEHOLDER]
+[ ] 5 table cells
 
-INSPIRATIONAL QUOTE
-[ ] [INSPIRATIONAL AI/TECH QUOTE PLACEHOLDER]
-[ ] [QUOTE AUTHOR PLACEHOLDER]
+QUOTE
+[ ] Quote text + author
 
-OPTIONAL
-[ ] Set up the "blog-post-workflow" GitHub Action if you want the
-    Blog section to auto-update (search GitHub Marketplace).
-[ ] Verify all shields.io / vercel widget links render correctly
-    after you replace YOUR-GITHUB-USERNAME.
-[ ] Remove or replace the decorative image under "About Me" if
-    you don't want a generic graphic.
+OPTIONAL PREMIUM ADD-ONS
+[ ] Contribution snake animation — set up Platane/snk GitHub Action,
+    then uncomment the snake <img> block in GitHub Analytics
+[ ] WakaTime coding-time card — add a WakaTime badge if you track
+    coding time (github-readme-stats supports it)
 =====================================================================
 -->
