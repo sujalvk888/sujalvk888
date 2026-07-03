@@ -52,18 +52,22 @@ I specialize in orchestrating **Large Language Models (LLMs)**, designing scalab
 <div align="center">
 
 ### **Applied AI & Data Engineering**
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,pr&perline=10" alt="AI & Data Skills" />
-</a>
-<br/>
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv&perline=10" alt="AI & Data Skills" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+
+<br/><br/>
 
 ### **Full-Stack Web & Cloud Architecture**
+
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,postgres,supabase,prisma,docker,git&perline=12" alt="Web Architecture Skills" />
 </a>
