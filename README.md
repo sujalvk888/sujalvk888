@@ -1,12 +1,16 @@
 <div align="center">
 
-<!-- HERO TYPING BANNER -->
+<!-- ANIMATED HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,22&height=200&section=header&text=Sujal%20V%20Kanchan&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF" alt="Header Banner" />
+
+<!-- FIXED TYPING BANNER (Properly encoded to prevent clipping) -->
 <a href="https://github.com/sujalvk888">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+there!+%F0%9F%91%8B+I'm+Sujal+V+Kanchan;B.E.+in+Information+Science+%26+Engineering+%F0%9F%93%98;Aspiring+AI+Specialist+%26+Full-Stack+Engineer+%F0%9F%9E%80;Building+Intelligent+LLM+%26+Web+Applications+%E2%9C%A8" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI+Specialist+%26+Full-Stack+Engineer;B.E.+in+Information+Science+%26+Engineering;Architecting+Intelligent+LLM+Pipelines;Turning+Complex+Data+into+Elegant+Code" alt="Typing Banner" />
 </a>
 
-### Bridging Data Science, Large Language Models & Modern Full-Stack Engineering
+<br/>
 
+<!-- STATS & CONTACT BADGES -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sujalvk888&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <a href="https://github.com/sujalvk888?tab=followers">
@@ -19,13 +23,13 @@
 
 <p align="center">
   <a href="mailto:sujal.vk888@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Connect_via_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://sujal-portfolio-sigmaverse.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Interactive_Portfolio-255E63?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/sujal-v-kanchan">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
@@ -33,90 +37,80 @@
 
 ---
 
-## 💡 About Me
+## ⚡ Executive Summary
 
-Welcome to my digital workspace! I am a recent **Bachelor of Engineering graduate in Information Science and Engineering** with an intense passion for **Artificial Intelligence, Large Language Models (LLMs), and intelligent web systems**. 
+I am an aspiring **AI Specialist & Full-Stack Software Engineer** (B.E. in Information Science and Engineering) dedicated to bridging cutting-edge artificial intelligence with production-grade web systems. 
 
-Combining a strong academic foundation in algorithms and data architecture with practical full-stack software development experience, I specialize in transforming complex AI concepts into intuitive, production-ready applications. Whether it is building intelligent document QA pipelines or scalable cloud-backed architectures, I thrive at the intersection of machine learning and software engineering.
+I specialize in orchestrating **Large Language Models (LLMs)**, designing scalable **RAG (Retrieval-Augmented Generation)** pipelines, and building sleek, high-concurrency web applications from the database up to the user interface.
 
-* 🎓 **Education:** B.E. in Information Science and Engineering.
-* 🔭 **Current Focus:** Deepening my expertise in applied Artificial Intelligence, LLM orchestration, and RAG (Retrieval-Augmented Generation) architectures.
-* 🚀 **Career Objective:** Actively seeking an **AI Specialist / AI Engineer** role where I can contribute to forward-thinking machine learning initiatives, solve high-impact problems, and continuously learn alongside world-class engineering teams.
-* 💻 **Development Approach:** Clean code, robust data pipelines, and user-centric design.
+> *"Engineering is not just about making machines work; it is about making intelligent systems accessible, reliable, and deeply intuitive."*
 
 ---
 
-## 🧠 Core Competencies & Tech Stack
+## 🧠 Technical Ecosystem & Arsenal
 
-### **Artificial Intelligence & Data Science**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+<div align="center">
+
+### **Applied AI & Data Engineering**
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,pr&perline=10" alt="AI & Data Skills" />
+</a>
+<br/>
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### **Languages & Web Development**
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<br/>
 
-### **Backend, Databases & Cloud Tools**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 🚀 Featured AI & Software Projects
-
-| 🤖 **[InfiDocs AI](https://github.com/sujalvk888/infidocs-ai)** | 🏡 **[Full-Stack Airbnb Clone](https://github.com/sujalvk888/airbnb-clone)** |
-| :--- | :--- |
-| **An intelligent document intelligence platform powered by Large Language Models that enables interactive question-answering directly from uploaded PDF and DOCX files.** | **A feature-rich, full-stack booking platform replicating Airbnb's core workflow, featuring robust authentication, property listing management, and database integrations.** |
-| **Tech Stack:**<br>`TypeScript` `Next.js` `LLMs` `Supabase` `AI Document Chat` | **Tech Stack:**<br>`React` `Node.js` `Express` `PostgreSQL` `Prisma ORM` |
-| **Key Highlights:**<br>• Implemented context-aware document extraction & processing.<br>• Built a responsive, real-time conversational interface.<br>• Optimized vector search and query retrieval accuracy. | **Key Highlights:**<br>• Designed scalable relational database schemas with Prisma.<br>• Engineered end-to-end RESTful APIs with Node/Express.<br>• Crafted a seamless, responsive UI using modern React patterns. |
-| [🔗 **View Repository**](https://github.com/sujalvk888/infidocs-ai) | [🔗 **View Repository**](https://github.com/sujalvk888/airbnb-clone) |
-
-| 📊 **[Smart Budget Tracker](https://github.com/sujalvk888/smart-budget-tracker)** | ⚡ **[Aura Plan & Management Applications](https://github.com/sujalvk888/aura-plan)** |
-| :--- | :--- |
-| **A full-stack personal finance application engineered for real-time expense management, visual budgeting insights, and transaction tracking.** | **Productivity and project management tools designed with clean TypeScript architectures and intuitive interactive workflows.** |
-| **Tech Stack:**<br>`React` `Node.js` `PostgreSQL` `Prisma` | **Tech Stack:**<br>`TypeScript` `JavaScript` `Modern Web APIs` |
-| [🔗 **View Repository**](https://github.com/sujalvk888/smart-budget-tracker) | [🔗 **View Repository**](https://github.com/sujalvk888/aura-plan) |
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sujalvk888&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sujalvk888&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalvk888&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" alt="Top Languages" width="65%" />
+### **Full-Stack Web & Cloud Architecture**
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,postgres,supabase,prisma,docker,git&perline=12" alt="Web Architecture Skills" />
+</a>
 
 </div>
 
 ---
 
-## 🤝 Let's Connect & Innovate!
+## 🚀 Featured Engineering Projects
 
-I am actively open to **full-time opportunities, collaborative AI research, and innovative engineering challenges**. If your team is looking for a dedicated engineer ready to dive deep into AI solutions and deliver tangible results, let's get in touch!
+| 🤖 **[InfiDocs AI Platform](https://github.com/sujalvk888/infidocs-ai)** | 🏡 **[Full-Stack Airbnb Platform](https://github.com/sujalvk888/airbnb-clone)** |
+| :--- | :--- |
+| **An enterprise-grade document intelligence platform that enables real-time conversational QA over uploaded PDF & DOCX datasets using LLMs.** | **A high-concurrency, production-ready booking platform replicating core Airbnb systems with secure auth and dynamic filtering.** |
+| 🛠️ **Architecture:**<br>`TypeScript` • `Next.js` • `LLM Orchestration` • `Supabase Vector Store` | 🛠️ **Architecture:**<br>`React` • `Node.js` • `Express` • `PostgreSQL` • `Prisma ORM` |
+| 📈 **Engineering Highlights:**<br>• Built semantic vector search for sub-second document retrieval.<br>• Designed streaming chat UI with strict context grounding.<br>• Engineered automated chunking & token optimization. | 📈 **Engineering Highlights:**<br>• Architected normalized relational database schemas.<br>• Built secure JWT authentication & reservation locking.<br>• Optimized API payload delivery for rapid UI rendering. |
+| [🔗 **Explore Codebase**](https://github.com/sujalvk888/infidocs-ai) | [🔗 **Explore Codebase**](https://github.com/sujalvk888/airbnb-clone) |
+
+---
+
+## 📊 GitHub Performance & Analytics
 
 <div align="center">
 
-[![Email Me](https://img.shields.io/badge/Drop_me_an_Email-0D1117?style=for-the-badge&logo=minutemailer&logoColor=58A6FF)](mailto:sujal.vk888@gmail.com)
-[![Visit Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=2ea44f)](https://sujal-portfolio-sigmaverse.vercel.app/)
+<!-- FIXED STATS CARDS USING ROBUST ENDPOINTS -->
+<img src="https://github-readme-stats.vercel.app/api?username=sujalvk888&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sujalvk888&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalvk888&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" width="65%" />
+
+</div>
+
+---
+
+## 🤝 Let's Architect the Future of AI
+
+I am actively open to **full-time AI Engineering, Data Science, and Full-Stack development roles** where I can solve complex problems and build impactful products. Let's start a conversation!
+
+<div align="center">
+
+[![Send Email](https://img.shields.io/badge/Drop_a_Mail-0D1117?style=for-the-badge&logo=minutemailer&logoColor=58A6FF)](mailto:sujal.vk888@gmail.com)
+[![Explore Portfolio](https://img.shields.io/badge/Explore_Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=2ea44f)](https://sujal-portfolio-sigmaverse.vercel.app/)
 
 <br/>
 
-⭐️ *Thank you for stopping by my profile! Feel free to explore my repositories.* ⭐️
+<!-- ANIMATED FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,22&height=100&section=footer" alt="Footer Wave" />
 
 </div>
