@@ -38,14 +38,14 @@
 </p>
 
 <!-- ================= STATUS BADGES ================= -->
-<img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20Views&color=6A11CB&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=sujalvk888&label=Profile%20Views&color=6A11CB&style=flat-square"/>
 <img src="https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?label=Followers&style=flat-square&color=2575FC"/>
 <img src="https://img.shields.io/badge/Open%20to-AI%2FML%20Roles-brightgreen?style=flat-square"/>
 <img src="https://img.shields.io/badge/Based%20in-%5BYOUR%20LOCATION%5D-informational?style=flat-square"/>
 
 <br/><br/>
 
-<a href="mailto:[YOUR EMAIL]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:[sujal.vk888@gmail.com]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="[YOUR LINKEDIN URL]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="[YOUR PORTFOLIO]"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="[YOUR RESUME LINK]"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"/></a>
@@ -66,7 +66,7 @@
 - 🎯 2026 goal: **[YOUR CAREER GOAL PLACEHOLDER]**
 - 💬 Ask me about **[TOPIC 1]**, **[TOPIC 2]**, or **[TOPIC 3]**
 - 🎓 **[YOUR DEGREE PLACEHOLDER]** at **[YOUR UNIVERSITY PLACEHOLDER]**
-- 📫 Reach me at **[YOUR EMAIL]**
+- 📫 Reach me at **[sujal.vk888@gmail.com]**
 
 > *"[SHORT PERSONAL TAGLINE PLACEHOLDER — e.g., 'Building intelligent systems, one experiment at a time.']"*
 
