@@ -15,7 +15,7 @@
 
   <!-- Profile Visitor Counter -->
   <p align="center">
-    <img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg" alt="Visitor Count" />
+    <img src="https://profile-counter.glitch.me/sujalvk888/count.svg" alt="Visitor Count" />
   </p>
 
 </div>
