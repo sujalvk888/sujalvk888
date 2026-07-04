@@ -1,146 +1,64 @@
 <div align="center">
 
-# Hi 👋, I'm Sujal
+# ⚡ Alex Vance
+### **Applied AI Specialist & Machine Learning Engineer**
+*Bridging the gap between cutting-edge foundational research and scalable, production-grade AI systems.*
 
-### 🚀 Software Developer | AI & ML Enthusiast | Open Source Learner
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Software+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Technologies" />
-
-<p>
-<img src="https://komarev.com/ghpvc/?username=sujalvk888&label=Profile%20Views&color=0e75b6&style=flat" />
-<img src="https://img.shields.io/github/followers/sujalvk888?label=Followers&style=social" />
-<img src="https://img.shields.io/github/stars/sujalvk888?affiliations=OWNER&style=social" />
-</p>
+[![Location](https://img.shields.io/badge/Location-San_Francisco%2C_CA-181717?style=flat-square&logo=googlemaps&logoColor=white)](https://github.com)
+[![Status](https://img.shields.io/badge/Status-Open_to_AI%2FML_Roles-00C853?style=flat-square)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-Models-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co)
 
 </div>
 
 ---
 
-# 💫 About Me
+### 🧠 Core Focus & Architecture
 
-- 🎓 Student & Passionate Developer
-- 💻 Interested in Full Stack Development
-- 🤖 Learning Artificial Intelligence & Machine Learning
-- 🌱 Currently learning Cloud & DevOps
-- 🚀 Love building real-world projects
-- 📫 Reach me: **your-email@gmail.com**
+```python
+class AISpecialist:
+    def __init__(self):
+        self.primary_focus = ["Large Language Models", "Retrieval-Augmented Generation (RAG)", "MLOps"]
+        self.currently_exploring = "Sub-1B parameter reasoning distillation and edge deployment"
+        self.core_ethos = "Models don't matter until they solve a real problem reliably."
 
+    def get_stack(self):
+        return {
+            "Frameworks": ["PyTorch", "JAX", "HuggingFace Transformers", "LangChain"],
+            "MLOps & Cloud": ["Docker", "Kubernetes", "AWS SageMaker", "MLflow", "Weights & Biases"],
+            "Databases": ["Pinecone", "Qdrant", "PostgreSQL", "Redis"]
+        }
 ---
 
-# 🌐 Connect With Me
+### 📄 README_Part_2: Flagship AI Systems (Projects)
 
-<p align="left">
-<a href="https://linkedin.com/in/your-profile">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+```markdown
+### 🏛️ Flagship AI Systems
 
-<a href="https://twitter.com/your-profile">
-<img src="https://skillicons.dev/icons?i=twitter" />
-</a>
+#### 1. NeuralDoc — Enterprise RAG with Self-Reflective Verification
+> **The Challenge:** Standard RAG pipelines suffer from severe hallucination constraints when querying dense, multi-page legal contracts.
 
-<a href="mailto:your-email@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+* **Architecture:** Built a multi-agent retrieval pipeline using Llama-3-8B-Instruct fine-tuned via QLoRA, integrated with hybrid sparse/dense search (Qdrant + BM25).
+* **Impact:** Reduced factual hallucination rates by **41%** on proprietary benchmarks while maintaining sub-800ms inference latency on NVIDIA A10G instances.
+* **Tech Stack:** `PyTorch` • `vLLM` • `FastAPI` • `Qdrant` • `Docker`
 
-<a href="https://yourportfolio.com">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-</p>
+#### 2. VisionGuard — Real-Time Edge Anomaly Detection
+> **The Challenge:** High latency and prohibitive bandwidth costs associated with streaming 4K manufacturing video feeds to cloud-hosted GPUs.
 
----
+* **Architecture:** Optimized and quantized a YOLOv8 architecture down to INT8 precision using TensorRT, natively deployed on edge embedded hardware.
+* **Impact:** Achieved **62 FPS** throughput locally with **99.2%** recall on defect identification, successfully cutting cloud compute overhead to zero.
+* **Tech Stack:** `OpenCV` • `TensorRT` • `ONNX Runtime` • `C++` • `Python`
 
-# 💻 Tech Stack
+### 📐 Technical Arsenal
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css" />
-</p>
-
-### Frameworks & Libraries
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,tensorflow,pytorch" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman" />
-</p>
+| Domain | Tools & Technologies |
+| :--- | :--- |
+| **Deep Learning & Modeling** | PyTorch, TensorFlow, JAX, Scikit-Learn, XGBoost |
+| **Generative AI & NLP** | Hugging Face Ecosystem, vLLM, Ollama, LangChain, LlamaIndex |
+| **Vector & Data Storage** | Qdrant, Milvus, Pinecone, Neo4j (Graph RAG), Apache Spark |
+| **Deployment & Infrastructure** | Docker, Kubernetes, AWS (EC2, S3, SageMaker), Ray Serve, FastAPI |
 
 ---
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🔹 Project 1 | Short description |
-| 🔹 Project 2 | Short description |
-| 🔹 Project 3 | Short description |
-| 🔹 Project 4 | Short description |
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sujalvk888&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalvk888&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sujalvk888&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sujalvk888&theme=tokyo-night&hide_border=true"/>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sujalvk888&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
-
-</p>
-
----
-
-# 📚 Currently Learning
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Cloud Computing
-- Docker
-- Kubernetes
-
----
-
-# ✨ Fun Fact
-
-> "Code. Learn. Build. Repeat."
-
----
-
 <div align="center">
-
-### Thanks for visiting ❤️
-
-⭐ Don't forget to Star your favorite repositories!
-
+  <sub>Managed via clean terminal principles. Driven by high-signal execution.</sub>
 </div>
