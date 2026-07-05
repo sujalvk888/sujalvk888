@@ -3,43 +3,44 @@
   <img src="https://github.com/user-attachments/assets/423aa52e-6d80-4dc5-8081-2fb115f3d6b2" width="100%" height="230" alt="Profile Banner" />
 </p>
 
-<br>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Sujal;Aspiring+AI+Specialist;Information+Science+Graduate" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sujalvk888&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 <hr>
 
-<!-- CORE NARRATIVE ("ABOUT ME") -->
-## 👨‍💻 About Me
-
-> **"Information Science graduate by credential, AI Specialist by obsession."**  
-> I bridge the gap between traditional software engineering and intelligent data systems. My engineering philosophy is built entirely around **project-based learning**—I truly master complex architectures by breaking them, rebuilding them, and deploying them to production.
+<!-- CORE NARRATIVE & VISUAL SPLIT -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="62%" valign="top" style="border: none; padding-right: 24px;">
+      <h2>👨‍💻 About Me</h2>
+      <p><i>"Information Science graduate by credential, AI Specialist by obsession."</i></p>
+      <p>I bridge the gap between traditional software engineering and intelligent data systems. My engineering philosophy is built entirely around <b>project-based learning</b>-I truly master complex architectures by breaking them, rebuilding them, and deploying them to production.</p>
+      
+   <h3>🎯 The Current Vector</h3>
+      <ul>
+        <li><b>Architecting</b> - Intelligent, AI-augmented full-stack web applications engineered to solve real-world bottlenecks.</li>
+        <li><b>Mastering</b> - Deep learning frameworks, Large Language Model (LLM) fine-tuning strategies, and production-ready MLOps pipelines.</li>
+        <li><b>Seeking</b> - High-impact collaborations on open-source AI tooling, computer vision models, and automated intelligence pipelines.</li>
+        <li><b>Expertise</b> - Core full-stack engineering (Python, JS, React, Node.js) natively fused with modern AI API orchestrations.</li>
+      </ul>
+    </td>
+    <td width="38%" valign="middle" align="center" style="border: none;">
+      <!-- 👇 REPLACE THE URL BELOW WITH YOUR DESIRED GIF UPLOAD OR LINK 👇 -->
+      <img src="https://github.com/user-attachments/assets/2651cd71-508a-49a4-aeca-62cc0424c1c7" alt="AI & Dev Dashboard Visual" width="100%" style="border-radius: 8px;" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
-### 🎯 The Current Vector
-
-* 🔭 **Architecting** &nbsp;&middot;&nbsp; Intelligent, AI-augmented full-stack web applications engineered to solve real-world bottlenecks.
-* 🌱 **Mastering** &nbsp;&middot;&nbsp; Deep learning frameworks, Large Language Model (LLM) fine-tuning strategies, and production-ready **MLOps pipelines**.
-* 👯 **Seeking** &nbsp;&middot;&nbsp; High-impact collaborations on open-source AI tooling, computer vision models, and automated intelligence pipelines.
-* 💬 **Expertise** &nbsp;&middot;&nbsp; Core full-stack engineering (Python, JS, React, Node.js) natively fused with modern AI API orchestrations.
-
-<br>
-
+<!-- DIGITAL FOOTPRINT -->
 ### 🌐 Digital Footprint
 
 | Resource | Destination |
 | :--- | :--- |
 | 📧 **Direct Inquiry** | [sujal.vk888@gmail.com](mailto:sujal.vk888@gmail.com) |
 | 🖥️ **Live Portfolio** | [sujal-portfolio-sigmaverse.vercel.app](https://sujal-portfolio-sigmaverse.vercel.app/) |
-
-<br>
 
 <!-- TECH STACK GRID -->
 ### 🛠️ Primary Tech Stack
