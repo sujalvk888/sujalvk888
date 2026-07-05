@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Sujal;Full-Stack+Web+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Sujal;Aspiring+AI+Specialist;Information+Science+Graduate" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,13 +18,15 @@
 <!-- CORE NARRATIVE ("ABOUT ME") -->
 ### 👨‍💻 About Me
 
-*   🔭 I’m currently building **Cloud-native applications**
-*   🌱 I’m currently learning **Rust and Web3 technologies**
-*   👯 I’m looking to collaborate on **Open source web tools & FinTech projects**
-*   💬 Ask me about **JavaScript, React, Node.js, and Python**
-*   📫 How to reach me: **sujal.vk888@gmail.com**
-*   🌍 Portfolio: **[Insert URL](https://sujal-portfolio-sigmaverse.vercel.app/)**
-*   📝 Blog: **[Insert URL](https://your-blog.com)**
+*   🎓 **Background:** Information Science & Engineering Graduate, bridging foundational engineering with data intelligence.
+*   🚀 **Methodology:** Driven entirely by **project-based learning**—I learn concepts by breaking them, coding them, and deploying them.
+*   🔭 **I’m currently building:** Intelligent, AI-augmented full-stack web applications to solve real-world problems.
+*   🌱 **I’m currently learning:** Deep learning frameworks, Large Language Model (LLM) fine-tuning, and **MLOps pipelines** to scale models.
+*   👯 **I’m looking to collaborate on:** Open-source AI tools, computer vision tasks, or intelligent automation projects.
+*   💬 **Ask me about:** Python, JavaScript, React, Node.js, and integrating AI APIs into web apps.
+*   📫 **How to reach me:** [sujal.vk888@gmail.com](mailto:sujal.vk888@gmail.com)
+*   🌍 **Portfolio:** [sujal-portfolio-sigmaverse.vercel.app](https://sujal-portfolio-sigmaverse.vercel.app/)
+*   📝 **Blog:** [Insert URL](https://your-blog.com)
 
 <br>
 
