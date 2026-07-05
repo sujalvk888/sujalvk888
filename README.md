@@ -17,7 +17,7 @@
       <p><i>"Information Science graduate by credential, AI Specialist by obsession."</i></p>
       <p>I bridge the gap between traditional software engineering and intelligent data systems. My engineering philosophy is built entirely around <b>project-based learning</b>-I truly master complex architectures by breaking them, rebuilding them, and deploying them to production.</p>
       
-   <h3>🎯 The Current Vector</h3>
+<h3>🎯 The Current Vector</h3>
       <ul>
         <li><b>Architecting</b> - Intelligent, AI-augmented full-stack web applications engineered to solve real-world bottlenecks.</li>
         <li><b>Mastering</b> - Deep learning frameworks, Large Language Model (LLM) fine-tuning strategies, and production-ready MLOps pipelines.</li>
@@ -25,37 +25,45 @@
         <li><b>Expertise</b> - Core full-stack engineering (Python, JS, React, Node.js) natively fused with modern AI API orchestrations.</li>
       </ul>
     </td>
-    <td width="38%" valign="middle" align="center" style="border: none;">
-      <!-- 👇 REPLACE THE URL BELOW WITH YOUR DESIRED GIF UPLOAD OR LINK 👇 -->
+    
+<td width="38%" valign="top" align="center" style="border: none;">
+      <!-- 👇 GIF DASHBOARD VISUAL 👇 -->
       <img src="https://github.com/user-attachments/assets/2651cd71-508a-49a4-aeca-62cc0424c1c7" alt="AI & Dev Dashboard Visual" width="100%" style="border-radius: 8px;" />
+      
+<br>
+      
+<!-- 👇 PRIMARY FEATURED BUTTON (GAP REDUCED) 👇 -->
+<a href="https://sujal-portfolio-sigmaverse.vercel.app/" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Live%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+      </a>
+      
+  <br>
+
+  <!-- 👇 SECONDARY BUTTONS (GAP REDUCED) 👇 -->
+  <a href="mailto:sujal.vk888@gmail.com" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Gmail-36BCF7?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
+      </a>
+      &nbsp;
+      <a href="YOUR_LINKEDIN_URL_HERE" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
     </td>
   </tr>
 </table>
 
-<br>
-
-<!-- DIGITAL FOOTPRINT -->
-### 🌐 Digital Footprint
-
-<p align="left">
-  <a href="mailto:sujal.vk888@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sujal.vk888%40gmail.com-36BCF7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-  <a href="https://sujal-portfolio-sigmaverse.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Portfolio-Sigmaverse-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=36BCF7" alt="Portfolio Badge"/>
-  </a>
-</p>
-
-<!-- TECH STACK GRID -->
-### 🛠️ Primary Tech Stack
-
+<!-- TECH STACK -->
+<h3 align="center">🛠️ Primary Tech Stack</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,docker,postgres,git,aws&theme=dark" alt="My Skills" />
-  </a>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS"/>
 </p>
-
-<br>
 
 <!-- REAL-TIME GITHUB STATS CARDS -->
 ### 📊 GitHub Stats
