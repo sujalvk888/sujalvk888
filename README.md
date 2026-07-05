@@ -1,14 +1,16 @@
 <!-- HERO SECTION -->
-<video src="https://github.com/user-attachments/assets/6d16b608-13c2-4921-bed3-2191db0414b7" width="100%" autoplay loop muted playsinline></video>
+<p align="center">
+  <img src="[YOUR_NEW_IMAGE_OR_WEBP_URL_HERE](https://github.com/user-attachments/assets/21222e6b-0999-4e9b-bf58-9c6657f36c38)" width="100%" alt="Profile Banner" />
+</p>
 
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+[YOUR_NAME];Full-Stack+Web+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Sujal;Full-Stack+Web+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sujalvk888&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <hr>
