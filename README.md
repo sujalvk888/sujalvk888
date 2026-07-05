@@ -1,6 +1,6 @@
 <!-- HERO SECTION -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/21222e6b-0999-4e9b-bf58-9c6657f36c38" width="100%" alt="Profile Banner" />
+  <img src="https://github.com/user-attachments/assets/423aa52e-6d80-4dc5-8081-2fb115f3d6b2" width="100%" alt="Profile Banner" />
 </p>
 
 <br>
@@ -22,8 +22,8 @@
 *   🌱 I’m currently learning **Rust and Web3 technologies**
 *   👯 I’m looking to collaborate on **Open source web tools & FinTech projects**
 *   💬 Ask me about **JavaScript, React, Node.js, and Python**
-*   📫 How to reach me: **[your-email@example.com](mailto:your-email@example.com)**
-*   🌍 Portfolio: **[Insert URL](https://your-portfolio.com)**
+*   📫 How to reach me: **sujal.vk888@gmail.com**
+*   🌍 Portfolio: **[Insert URL](https://sujal-portfolio-sigmaverse.vercel.app/)**
 *   📝 Blog: **[Insert URL](https://your-blog.com)**
 
 <br>
@@ -43,16 +43,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/[YOUR_USERNAME]">
-    <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <a href="https://github.com/sujalvk888">
+    <img src="https://github-readme-stats.vercel.app/api?username=sujalvk888&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/[YOUR_USERNAME]">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USERNAME]&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/sujalvk888">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujalvk888&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/[YOUR_USERNAME]">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/sujalvk888">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalvk888&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 
@@ -62,11 +62,11 @@
 ### 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/[YOUR_USERNAME]/[PROJECT_1_REPO]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_USERNAME]&repo=[PROJECT_1_REPO]&theme=tokyonight&hide_border=true" alt="Project 1" />
+  <a href="https://github.com/sujalvk888/YOUR_PROJECT_1_REPO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sujalvk888&repo=YOUR_PROJECT_1_REPO&theme=tokyonight&hide_border=true" alt="Project 1" />
   </a>
-  <a href="https://github.com/[YOUR_USERNAME]/[PROJECT_2_REPO]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_USERNAME]&repo=[PROJECT_2_REPO]&theme=tokyonight&hide_border=true" alt="Project 2" />
+  <a href="https://github.com/sujalvk888/YOUR_PROJECT_2_REPO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sujalvk888&repo=YOUR_PROJECT_2_REPO&theme=tokyonight&hide_border=true" alt="Project 2" />
   </a>
 </p>
 
@@ -76,20 +76,20 @@
 ### 🐍 GitHub Contribution Grid Snake
 
 <p align="center">
-  <img src="https://github.com/[YOUR_USERNAME]/[YOUR_USERNAME]/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://github.com/sujalvk888/sujalvk888/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 <br>
 
 <!-- SOCIAL & CONTACT FOOTER -->
 <p align="center">
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN]">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/[YOUR_TWITTER]">
+  <a href="https://twitter.com/YOUR_TWITTER">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
   </a>
-  <a href="mailto:[YOUR_EMAIL@example.com]">
+  <a href="mailto:sujal.vk888@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
