@@ -1,6 +1,6 @@
 <!-- HERO SECTION -->
 <p align="center">
-  <img src="[YOUR_NEW_IMAGE_OR_WEBP_URL_HERE](https://github.com/user-attachments/assets/21222e6b-0999-4e9b-bf58-9c6657f36c38)" width="100%" alt="Profile Banner" />
+  <img src="https://github.com/user-attachments/assets/21222e6b-0999-4e9b-bf58-9c6657f36c38" width="100%" alt="Profile Banner" />
 </p>
 
 <br>
