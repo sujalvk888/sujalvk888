@@ -104,38 +104,26 @@
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sujalvk888&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<!-- FEATURED PROJECTS SECTION -->
-### 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/sujalvk888/YOUR_PROJECT_1_REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sujalvk888&repo=YOUR_PROJECT_1_REPO&theme=tokyonight&hide_border=true" alt="Project 1" />
-  </a>
-  <a href="https://github.com/sujalvk888/YOUR_PROJECT_2_REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sujalvk888&repo=YOUR_PROJECT_2_REPO&theme=tokyonight&hide_border=true" alt="Project 2" />
-  </a>
-</p>
-
-<br>
 
 <!-- INTERACTIVE / AUTOMATION PLACEHOLDER -->
-### 🐍 GitHub Contribution Grid Snake
-
+<h3 align="center">🎮 GitHub Contribution Grid (Pacman Style)</h3>
 <p align="center">
-  <img src="https://github.com/sujalvk888/sujalvk888/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/sujalvk888/sujalvk888/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Animation" width="100%" style="max-width: 850px;" />
 </p>
 
 <br>
 
 <!-- SOCIAL & CONTACT FOOTER -->
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=flat&logo=x&logoColor=white" alt="Twitter/X" />
   </a>
-  <a href="mailto:sujal.vk888@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  &nbsp;&nbsp;
+  <a href="mailto:sujal.vk888@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gmail-36BCF7?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
