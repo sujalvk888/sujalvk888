@@ -16,16 +16,28 @@
 <hr>
 
 <!-- CORE NARRATIVE ("ABOUT ME") -->
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-*   🎓 **Background:** Information Science & Engineering Graduate, bridging foundational engineering with data intelligence.
-*   🚀 **Methodology:** Driven entirely by **project-based learning**—I learn concepts by breaking them, coding them, and deploying them.
-*   🔭 **I’m currently building:** Intelligent, AI-augmented full-stack web applications to solve real-world problems.
-*   🌱 **I’m currently learning:** Deep learning frameworks, Large Language Model (LLM) fine-tuning, and **MLOps pipelines** to scale models.
-*   👯 **I’m looking to collaborate on:** Open-source AI tools, computer vision tasks, or intelligent automation projects.
-*   💬 **Ask me about:** Python, JavaScript, React, Node.js, and integrating AI APIs into web apps.
-*   📫 **How to reach me:** [sujal.vk888@gmail.com](mailto:sujal.vk888@gmail.com)
-*   🌍 **Portfolio:** [sujal-portfolio-sigmaverse.vercel.app](https://sujal-portfolio-sigmaverse.vercel.app/)
+> **"Information Science graduate by credential, AI Specialist by obsession."**  
+> I bridge the gap between traditional software engineering and intelligent data systems. My engineering philosophy is built entirely around **project-based learning**—I truly master complex architectures by breaking them, rebuilding them, and deploying them to production.
+
+<br>
+
+### 🎯 The Current Vector
+
+* 🔭 **Architecting** &nbsp;&middot;&nbsp; Intelligent, AI-augmented full-stack web applications engineered to solve real-world bottlenecks.
+* 🌱 **Mastering** &nbsp;&middot;&nbsp; Deep learning frameworks, Large Language Model (LLM) fine-tuning strategies, and production-ready **MLOps pipelines**.
+* 👯 **Seeking** &nbsp;&middot;&nbsp; High-impact collaborations on open-source AI tooling, computer vision models, and automated intelligence pipelines.
+* 💬 **Expertise** &nbsp;&middot;&nbsp; Core full-stack engineering (Python, JS, React, Node.js) natively fused with modern AI API orchestrations.
+
+<br>
+
+### 🌐 Digital Footprint
+
+| Resource | Destination |
+| :--- | :--- |
+| 📧 **Direct Inquiry** | [sujal.vk888@gmail.com](mailto:sujal.vk888@gmail.com) |
+| 🖥️ **Live Portfolio** | [sujal-portfolio-sigmaverse.vercel.app](https://sujal-portfolio-sigmaverse.vercel.app/) |
 
 <br>
 
