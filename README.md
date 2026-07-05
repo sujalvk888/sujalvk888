@@ -26,7 +26,6 @@
 *   💬 **Ask me about:** Python, JavaScript, React, Node.js, and integrating AI APIs into web apps.
 *   📫 **How to reach me:** [sujal.vk888@gmail.com](mailto:sujal.vk888@gmail.com)
 *   🌍 **Portfolio:** [sujal-portfolio-sigmaverse.vercel.app](https://sujal-portfolio-sigmaverse.vercel.app/)
-*   📝 **Blog:** [Insert URL](https://your-blog.com)
 
 <br>
 
