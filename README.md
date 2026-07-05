@@ -1,123 +1,271 @@
-<!-- HERO SECTION -->
+<!-- ████████████████████████████████████████████████████████████ -->
+<!--                     HERO SECTION                           -->
+<!-- ████████████████████████████████████████████████████████████ -->
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/423aa52e-6d80-4dc5-8081-2fb115f3d6b2" width="100%" height="230" alt="Profile Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Sujal;Aspiring+AI+Specialist;Information+Science+Graduate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Sujal+%F0%9F%91%8B;Aspiring+AI+Specialist+%F0%9F%A4%96;Information+Science+Graduate+%F0%9F%8E%93;Full+Stack+%E2%9A%A1+AI+Engineer" alt="Typing SVG" />
 </p>
 
-<hr>
+<p align="center">
+  <a href="https://sujal-portfolio-sigmaverse.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/◈%20Live%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="mailto:sujal.vk888@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-36BCF7?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+    <img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
+  </a>
+</p>
 
-<!-- CORE NARRATIVE & VISUAL SPLIT -->
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<!-- ████████████████████████████████████████████████████████████ -->
+<!--                  CORE NARRATIVE & VISUAL SPLIT             -->
+<!-- ████████████████████████████████████████████████████████████ -->
+
 <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse; border: none;">
   <tr>
     <td width="62%" valign="top" style="border: none; padding-right: 24px;">
       <h2>👨‍💻 About Me</h2>
       <p><i>"Information Science graduate by credential, AI Specialist by obsession."</i></p>
-      <p>I bridge the gap between traditional software engineering and intelligent data systems. My engineering philosophy is built entirely around <b>project-based learning</b>-I truly master complex architectures by breaking them, rebuilding them, and deploying them to production.</p>
-      
+      <p>I bridge the gap between traditional software engineering and intelligent data systems. My engineering philosophy is built entirely around <b>project-based learning</b> — I truly master complex architectures by breaking them, rebuilding them, and deploying them to production.</p>
+
 <h3>🎯 The Current Vector</h3>
       <ul>
-        <li><b>Architecting</b> - Intelligent, AI-augmented full-stack web applications engineered to solve real-world bottlenecks.</li>
-        <li><b>Mastering</b> - Deep learning frameworks, Large Language Model (LLM) fine-tuning strategies, and production-ready MLOps pipelines.</li>
-        <li><b>Seeking</b> - High-impact collaborations on open-source AI tooling, computer vision models, and automated intelligence pipelines.</li>
-        <li><b>Expertise</b> - Core full-stack engineering (Python, JS, React, Node.js) natively fused with modern AI API orchestrations.</li>
+        <li><b>🏗️ Architecting</b> — Intelligent, AI-augmented full-stack web apps engineered to solve real-world bottlenecks.</li>
+        <li><b>🧠 Mastering</b> — Deep learning, LLM fine-tuning strategies, and production-ready MLOps pipelines.</li>
+        <li><b>🤝 Seeking</b> — High-impact collabs on open-source AI tooling, computer vision & automation pipelines.</li>
+        <li><b>⚡ Expertise</b> — Full-stack core (Python, JS, React, Node.js) fused with modern AI API orchestrations.</li>
       </ul>
-    </td>
-    
-<td width="38%" valign="top" align="center" style="border: none;">
-      <!-- 👇 GIF DASHBOARD VISUAL 👇 -->
-      <img src="https://github.com/user-attachments/assets/2651cd71-508a-49a4-aeca-62cc0424c1c7" alt="AI & Dev Dashboard Visual" width="100%" style="border-radius: 8px;" />
-      
-<br>
-      
-<!-- 👇 PRIMARY FEATURED BUTTON (GAP REDUCED) 👇 -->
-<a href="https://sujal-portfolio-sigmaverse.vercel.app/" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Live%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-      </a>
-      
-  <br>
 
-  <!-- 👇 SECONDARY BUTTONS (GAP REDUCED) 👇 -->
-  <a href="mailto:sujal.vk888@gmail.com" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Gmail-36BCF7?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
+<p>
+        <img src="https://img.shields.io/badge/Open%20to%20Collaborate-36BCF7?style=flat-square&logo=handshake&logoColor=white" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/Building%20in%20Public-0d1117?style=flat-square&logo=github&logoColor=36BCF7" />
+        &nbsp;
+        <img src="https://komarev.com/ghpvc/?username=sujalvk888&color=36BCF7&style=flat-square&label=Profile+Views" />
+      </p>
+    </td>
+
+<td width="38%" valign="top" align="center" style="border: none;">
+      <img src="https://github.com/user-attachments/assets/2651cd71-508a-49a4-aeca-62cc0424c1c7" alt="AI & Dev Dashboard Visual" width="100%" style="border-radius: 12px;" />
+
+<br/><br/>
+
+<a href="https://sujal-portfolio-sigmaverse.vercel.app/" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/◈%20Live%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+      </a>
+
+<br/>
+
+<a href="mailto:sujal.vk888@gmail.com" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Gmail-36BCF7?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
       </a>
       &nbsp;
-      <a href="YOUR_LINKEDIN_URL_HERE" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
       </a>
     </td>
   </tr>
 </table>
 
-<!-- TECH STACK -->
-<h3 align="center">🛠️ Primary Tech Stack</h3>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<!-- ████████████████████████████████████████████████████████████ -->
+<!--                       TECH STACK                           -->
+<!-- ████████████████████████████████████████████████████████████ -->
+
+<h2 align="center">🛠️ Tech Arsenal</h2>
+
+<h4 align="center">⚡ Core Languages & Frameworks</h4>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" title="JavaScript" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" title="TypeScript" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="50" height="50" title="Python" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="50" height="50" title="React" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50" title="Next.js" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50" title="Tailwind CSS" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" title="Node.js" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Firebase" width="45" height="45" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="45" height="45" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="45" height="45" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="45" height="45" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="Unity" width="45" height="45" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" width="50" height="50" title="Express.js" />
 </p>
 
-<!-- ========================================================= -->
-<!--                    GITHUB ANALYTICS                       -->
-<!-- ========================================================= -->
+<h4 align="center">🗄️ Databases & Cloud</h4>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" title="MongoDB" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" title="PostgreSQL" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Firebase" width="50" height="50" title="Firebase" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" width="50" height="50" title="Redis" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" title="Docker" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50" title="AWS" />
+</p>
+
+<h4 align="center">🤖 AI / ML Stack</h4>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50" title="TensorFlow" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50" title="PyTorch" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50" title="NumPy" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50" title="Pandas" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" width="50" height="50" title="Scikit-Learn" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" alt="OpenCV" width="50" height="50" title="OpenCV" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="50" height="50" title="Jupyter" />
+</p>
+
+<h4 align="center">🔧 Tools & Environment</h4>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="50" height="50" title="Git" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="50" height="50" title="GitHub" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50" title="VS Code" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="Unity" width="50" height="50" title="Unity" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" title="Linux" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="50" height="50" title="Postman" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" title="Figma" />
+</p>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<!-- ████████████████████████████████████████████████████████████ -->
+<!--                    GITHUB ANALYTICS                        -->
+<!-- ████████████████████████████████████████████████████████████ -->
 
 <h2 align="center">📊 GitHub Analytics</h2>
-<p align="center">A quick overview of my development activity and technology usage.</p>
+<p align="center">A live snapshot of my development activity and technology usage.</p>
 
-<!-- Top Row: Stats & Top Languages Side-by-Side -->
+<!-- Profile Summary Banner -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sujalvk888&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Sujal's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujalvk888&theme=tokyonight" width="100%" alt="Profile Details" />
+</p>
+
+<!-- Stats + Top Languages Row -->
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sujalvk888&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="Sujal's GitHub Stats" />
   &nbsp;&nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujalvk888&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujalvk888&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
 </p>
 
-<!-- Bottom Row: Streak Stats Centered Underneath -->
+<!-- Streak Stats -->
 <p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sujalvk888&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujalvk888&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<!-- Mini Summary Cards Row -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujalvk888&theme=tokyonight" width="24%" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sujalvk888&theme=tokyonight" width="24%" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sujalvk888&theme=tokyonight" width="24%" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sujalvk888&theme=tokyonight&utcOffset=5.5" width="24%" />
+</p>
 
-<!-- INTERACTIVE / AUTOMATION PLACEHOLDER -->
+<!-- Activity Graph -->
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujalvk888&bg_color=1a1b27&color=36BCF7&line=36BCF7&point=ffffff&area=true&area_color=36BCF7&hide_border=true&radius=8" width="100%" alt="Contribution Activity Graph" />
+  </a>
+</p>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<!-- ████████████████████████████████████████████████████████████ -->
+<!--                 TROPHIES                                    -->
+<!-- ████████████████████████████████████████████████████████████ -->
+
+<h3 align="center">🏆 GitHub Trophies</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sujalvk888&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
+</p>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<!-- ████████████████████████████████████████████████████████████ -->
+<!--            PACMAN CONTRIBUTION SNAKE                       -->
+<!-- ████████████████████████████████████████████████████████████ -->
+
 <h3 align="center">🎮 GitHub Contribution Grid (Pacman Style)</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sujalvk888/sujalvk888/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Animation" width="850" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sujalvk888/sujalvk888/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sujalvk888/sujalvk888/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/sujalvk888/sujalvk888/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Animation" width="100%" />
+  </picture>
 </p>
 
-<br>
+<br/>
 
-<!-- SOCIAL & CONTACT FOOTER -->
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<!-- ████████████████████████████████████████████████████████████ -->
+<!--                SOCIAL & CONTACT FOOTER                     -->
+<!-- ████████████████████████████████████████████████████████████ -->
+
+<h3 align="center">🌐 Let's Connect</h3>
+
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   &nbsp;&nbsp;
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=flat&logo=x&logoColor=white" alt="Twitter/X" /></a>
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+    <img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
+  </a>
   &nbsp;&nbsp;
-  <a href="mailto:sujal.vk888@gmail.com"><img src="https://img.shields.io/badge/Gmail-36BCF7?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:sujal.vk888@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-36BCF7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://sujal-portfolio-sigmaverse.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sujalvk888&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/sujalvk888?style=for-the-badge&color=36BCF7&labelColor=1a1b27&label=FOLLOWERS" alt="Followers" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=0,2,2,5,30&section=footer&animation=twinkling" width="100%" alt="footer wave" />
 </p>
