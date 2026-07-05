@@ -85,21 +85,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45" />
 </p>
 
-<!-- REAL-TIME GITHUB STATS CARDS -->
-<h3 align="center">📊 GitHub Stats</h3>
+<!-- ========================================================= -->
+<!--                    GITHUB ANALYTICS                       -->
+<!-- ========================================================= -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
+<p align="center">A quick overview of my development activity and technology usage.</p>
+
+<!-- Top Row: Stats & Top Languages Side-by-Side -->
 <p align="center">
-  <a href="https://github.com/sujalvk888" target="_blank" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api?username=sujalvk888&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/sujalvk888" target="_blank" style="text-decoration: none;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujalvk888&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sujalvk888&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Sujal's GitHub Stats" />
+  &nbsp;&nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujalvk888&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
 </p>
+
+<!-- Bottom Row: Streak Stats Centered Underneath -->
 <p align="center">
-  <a href="https://github.com/sujalvk888" target="_blank" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalvk888&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sujalvk888&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <!-- FEATURED PROJECTS SECTION -->
