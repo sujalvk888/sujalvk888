@@ -37,10 +37,14 @@
 <!-- DIGITAL FOOTPRINT -->
 ### 🌐 Digital Footprint
 
-| Resource | Destination |
-| :--- | :--- |
-| 📧 **Direct Inquiry** | [sujal.vk888@gmail.com](mailto:sujal.vk888@gmail.com) |
-| 🖥️ **Live Portfolio** | [sujal-portfolio-sigmaverse.vercel.app](https://sujal-portfolio-sigmaverse.vercel.app/) |
+<p align="left">
+  <a href="mailto:sujal.vk888@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sujal.vk888%40gmail.com-36BCF7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://sujal-portfolio-sigmaverse.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Portfolio-Sigmaverse-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=36BCF7" alt="Portfolio Badge"/>
+  </a>
+</p>
 
 <!-- TECH STACK GRID -->
 ### 🛠️ Primary Tech Stack
