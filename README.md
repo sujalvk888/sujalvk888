@@ -1,6 +1,6 @@
 <!-- HERO SECTION -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/423aa52e-6d80-4dc5-8081-2fb115f3d6b2" width="100%" height="250" alt="Profile Banner" />
+  <img src="https://github.com/user-attachments/assets/423aa52e-6d80-4dc5-8081-2fb115f3d6b2" width="100%" height="230" alt="Profile Banner" />
 </p>
 
 <br>
