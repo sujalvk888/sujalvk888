@@ -108,22 +108,16 @@
 <!-- INTERACTIVE / AUTOMATION PLACEHOLDER -->
 <h3 align="center">🎮 GitHub Contribution Grid (Pacman Style)</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sujalvk888/sujalvk888/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Animation" width="100%" style="max-width: 850px;" />
+  <img src="https://raw.githubusercontent.com/sujalvk888/sujalvk888/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Animation" width="850" />
 </p>
 
 <br>
 
 <!-- SOCIAL & CONTACT FOOTER -->
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;&nbsp;
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=flat&logo=x&logoColor=white" alt="Twitter/X" />
-  </a>
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=flat&logo=x&logoColor=white" alt="Twitter/X" /></a>
   &nbsp;&nbsp;
-  <a href="mailto:sujal.vk888@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Gmail-36BCF7?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="mailto:sujal.vk888@gmail.com"><img src="https://img.shields.io/badge/Gmail-36BCF7?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
