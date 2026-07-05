@@ -86,23 +86,21 @@
 </p>
 
 <!-- REAL-TIME GITHUB STATS CARDS -->
-### 📊 GitHub Stats
-
+<h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <a href="https://github.com/sujalvk888">
+  <a href="https://github.com/sujalvk888" target="_blank" style="text-decoration: none;">
     <img src="https://github-readme-stats.vercel.app/api?username=sujalvk888&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/sujalvk888">
+  &nbsp;
+  <a href="https://github.com/sujalvk888" target="_blank" style="text-decoration: none;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujalvk888&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/sujalvk888">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalvk888&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/sujalvk888" target="_blank" style="text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalvk888&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
 </p>
-
-<br>
 
 <!-- FEATURED PROJECTS SECTION -->
 ### 🚀 Featured Projects
