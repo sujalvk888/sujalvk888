@@ -1,4 +1,8 @@
 <!-- HERO SECTION -->
+<video src="https://github.com/user-attachments/assets/6d16b608-13c2-4921-bed3-2191db0414b7" width="100%" autoplay loop muted playsinline></video>
+
+<br>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+[YOUR_NAME];Full-Stack+Web+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
 </p>
