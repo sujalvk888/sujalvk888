@@ -161,111 +161,130 @@
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--                    GITHUB ANALYTICS                        -->
-<!-- ████████████████████████████████████████████████████████████ -->
+<!-- ========================================================= -->
+<!--                    📊 GITHUB ANALYTICS                     -->
+<!-- ========================================================= -->
 
 <h2 align="center">📊 GitHub Analytics</h2>
-<p align="center">A live snapshot of my development activity and technology usage.</p>
 
-<!-- Profile Summary Banner -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujalvk888&theme=tokyonight" width="100%" alt="Profile Details" />
+  <i>A snapshot of my coding journey, contribution history, and development activity.</i>
 </p>
 
-<!-- Stats + Top Languages Row -->
+<br>
+
+<!-- Profile Summary -->
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sujalvk888&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="Sujal's GitHub Stats" />
-  &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujalvk888&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
+  <img width="100%"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujalvk888&theme=tokyonight"
+       alt="Profile Summary"/>
 </p>
 
-<!-- Streak Stats -->
+<br>
+
+<!-- Stats + Languages -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujalvk888&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="48%"
+       src="https://github-readme-stats.vercel.app/api?username=sujalvk888&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+       alt="GitHub Stats"/>
+
+  <img width="48%"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalvk888&layout=donut&theme=tokyonight&hide_border=true"
+       alt="Top Languages"/>
 </p>
 
-<!-- Mini Summary Cards Row -->
+<br>
+
+<!-- Streak -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujalvk888&theme=tokyonight" width="24%" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sujalvk888&theme=tokyonight" width="24%" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sujalvk888&theme=tokyonight" width="24%" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sujalvk888&theme=tokyonight&utcOffset=5.5" width="24%" />
+  <img width="70%"
+       src="https://streak-stats.demolab.com?user=sujalvk888&theme=tokyonight&hide_border=true"
+       alt="GitHub Streak"/>
 </p>
+
+<br>
+
+<!-- Summary Cards -->
+<p align="center">
+  <img width="24%"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujalvk888&theme=tokyonight"/>
+
+  <img width="24%"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sujalvk888&theme=tokyonight"/>
+
+  <img width="24%"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sujalvk888&theme=tokyonight"/>
+
+  <img width="24%"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sujalvk888&theme=tokyonight&utcOffset=5.5"/>
+</p>
+
+<br>
 
 <!-- Activity Graph -->
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujalvk888&bg_color=1a1b27&color=36BCF7&line=36BCF7&point=ffffff&area=true&area_color=36BCF7&hide_border=true&radius=8" width="100%" alt="Contribution Activity Graph" />
-  </a>
+  <img width="100%"
+       src="https://github-readme-activity-graph.vercel.app/graph?username=sujalvk888&theme=tokyo-night&hide_border=true&area=true"
+       alt="Contribution Graph"/>
 </p>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+---
 
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--                 TROPHIES                                    -->
-<!-- ████████████████████████████████████████████████████████████ -->
+# 🏆 GitHub Achievements
 
-<h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sujalvk888&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=sujalvk888&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15"
+    alt="GitHub Trophies"/>
 </p>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+---
 
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--            PACMAN CONTRIBUTION SNAKE                       -->
-<!-- ████████████████████████████████████████████████████████████ -->
+# 🎮 Contribution Animation
 
-<h3 align="center">🎮 GitHub Contribution Grid (Pacman Style)</h3>
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sujalvk888/sujalvk888/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sujalvk888/sujalvk888/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/sujalvk888/sujalvk888/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Animation" width="100%" />
-  </picture>
+
+<!-- Replace this URL with your Pacman Action output -->
+
+<img width="100%"
+src="https://raw.githubusercontent.com/sujalvk888/sujalvk888/output/pacman-contribution-graph.svg"
+alt="Pacman Contribution Graph"/>
+
 </p>
 
-<br/>
+---
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--                SOCIAL & CONTACT FOOTER                     -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
-<h3 align="center">🌐 Let's Connect</h3>
+# 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:sujal.vk888@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-36BCF7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://sujal-portfolio-sigmaverse.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sujal.vk888@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://sujal-portfolio-sigmaverse.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sujalvk888">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sujalvk888&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/sujalvk888?style=for-the-badge&color=36BCF7&labelColor=1a1b27&label=FOLLOWERS" alt="Followers" />
+
+<img src="https://komarev.com/ghpvc/?username=sujalvk888&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS"/>
+
+<img src="https://img.shields.io/github/followers/sujalvk888?style=for-the-badge&color=0891b2&labelColor=1f2937&label=FOLLOWERS"/>
+
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=0,2,2,5,30&section=footer&animation=twinkling" width="100%" alt="footer wave" />
+<img width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&animation=twinkling"/>
 </p>
