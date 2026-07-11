@@ -236,14 +236,30 @@
 <!--                 🎮 CONTRIBUTION ANIMATION                  -->
 <!-- ========================================================= -->
 
-<h2 align="center">🎮 Contribution Animation</h2>
+<!-- ========================================================= -->
+<!--              🎮 GITHUB CONTRIBUTION JOURNEY               -->
+<!-- ========================================================= -->
+
+<img
+src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+
+<h2 align="center">
+🎮 GitHub Contribution Journey
+</h2>
 
 <p align="center">
-  <img
-    width="100%"
-    src="https://raw.githubusercontent.com/sujalvk888/sujalvk888/output/pacman-contribution-graph.svg"
-    alt="Pacman Contribution Graph"/>
+<i>Every commit adds another step to the adventure.</i>
 </p>
+
+<p align="center">
+<img
+width="100%"
+src="https://raw.githubusercontent.com/sujalvk888/sujalvk888/output/pacman-contribution-graph-dark.svg"
+alt="Pacman Contribution Graph"/>
+</p>
+
+<img
+src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 
 ---
 
