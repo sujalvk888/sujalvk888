@@ -232,16 +232,17 @@
 ---
 
 
-# 🎮 Contribution Animation
+<!-- ========================================================= -->
+<!--                 🎮 CONTRIBUTION ANIMATION                  -->
+<!-- ========================================================= -->
+
+<h2 align="center">🎮 Contribution Animation</h2>
 
 <p align="center">
-
-<!-- Replace this URL with your Pacman Action output -->
-
-<img width="100%"
-src="https://raw.githubusercontent.com/sujalvk888/sujalvk888/output/pacman-contribution-graph.svg"
-alt="Pacman Contribution Graph"/>
-
+  <img
+    width="100%"
+    src="https://raw.githubusercontent.com/sujalvk888/sujalvk888/output/pacman-contribution-graph.svg"
+    alt="Pacman Contribution Graph"/>
 </p>
 
 ---
