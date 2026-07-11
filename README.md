@@ -231,16 +231,6 @@
 
 ---
 
-# 🏆 GitHub Achievements
-
-<!-- GitHub Trophies -->
-<p align="center">
-  <img
-    src="https://github-profile-trophy-two-olive.vercel.app//?username=sujalvk888&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15"
-    alt="GitHub Trophies"/>
-</p>
-
----
 
 # 🎮 Contribution Animation
 
