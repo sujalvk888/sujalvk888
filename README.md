@@ -368,60 +368,67 @@ Contributing openly
 <!--              🎮 GITHUB CONTRIBUTION JOURNEY               -->
 <!-- ========================================================= -->
 
-<img
-src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
-<h2 align="center">
-🎮 GitHub Contribution Journey
-</h2>
+<h2 align="center">🎮 GitHub Contribution Journey</h2>
 
 <p align="center">
 <i>Every square represents a step forward.</i>
 </p>
 
 <p align="center">
-  <img
-    width="100%"
-    src="https://raw.githubusercontent.com/sujalvk888/sujalvk888/output/pacman-contribution-graph-dark.svg"
-    alt="Pac-Man Contribution Animation"/>
+<img
+width="100%"
+src="https://raw.githubusercontent.com/sujalvk888/sujalvk888/output/pacman-contribution-graph-dark.svg"
+alt="Pac-Man Contribution Animation"/>
 </p>
 
-<img
-src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+<br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
-# 🌐 Connect With Me
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
+<i>Let's build something meaningful together.</i>
+</p>
 
+<br>
+
+<p align="center">
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="mailto:sujal.vk888@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://sujal-portfolio-sigmaverse.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://github.com/sujalvk888">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </p>
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=sujalvk888&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS"/>
-
-<img src="https://img.shields.io/github/followers/sujalvk888?style=for-the-badge&color=0891b2&labelColor=1f2937&label=FOLLOWERS"/>
-
+<img src="https://komarev.com/ghpvc/?username=sujalvk888&style=flat-square&label=Profile+Views&color=0891b2"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/sujalvk888?style=flat-square&label=Followers&color=0891b2"/>
 </p>
 
 <p align="center">
-<img width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&animation=twinkling"/>
+<sub>
+Building AI-powered software • Open Source • Full-Stack Development • Lifelong Learning
+</sub>
+</p>
+
+<br>
+
+<p align="center">
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=gradient&animation=twinkling"/>
 </p>
