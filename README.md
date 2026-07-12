@@ -118,93 +118,130 @@ Creating scalable software with Python, JavaScript, React, Node.js, REST APIs, A
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- ████████████████████████████████████████████████████████████ -->
-<!--                       TECH ARSENAL                          -->
+<!--                     TECHNOLOGY STACK                        -->
 <!-- ████████████████████████████████████████████████████████████ -->
 
-<h2 align="center">🛠️ Tech Arsenal</h2>
+<h2 align="center">🛠️ Technology Stack</h2>
 
 <p align="center">
-<i>Technologies I use to build modern full-stack and AI-powered applications.</i>
+<i>Building modern full-stack applications powered by AI and scalable software engineering.</i>
 </p>
 
 <br>
 
-<h4 align="center">Core Languages & Frameworks</h4>
+<table
+align="center"
+width="100%"
+border="1"
+cellspacing="0"
+cellpadding="0"
+style="width:100%; border-collapse:collapse;">
 
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="52" title="Python"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="52" title="JavaScript"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="52" title="TypeScript"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="52" title="React"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="52" title="Next.js"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="52" title="Tailwind CSS"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="52" title="Node.js"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="52" title="Express"/>
-</p>
+<tr>
 
-<br><br>
+<!-- ================= FRONTEND ================= -->
 
-<h4 align="center">Databases & Cloud</h4>
+<td width="25%" align="center" valign="top" style="padding:12px 6px;">
 
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="52" title="PostgreSQL"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="52" title="MongoDB"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="52" title="Firebase"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="52" title="Redis"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="52" title="Docker"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="52" title="AWS"/>
-</p>
+<h3>Frontend</h3>
+
+<hr width="96%">
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=react" width="52" title="React"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=nextjs" width="52" title="Next.js"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=tailwind" width="52" title="Tailwind CSS"/>
 
 <br><br>
 
-<h4 align="center">AI / Machine Learning</h4>
+<img src="https://skillicons.dev/icons?i=typescript" width="52" title="TypeScript"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=javascript" width="52" title="JavaScript"/>
 
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="52" title="PyTorch"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="52" title="TensorFlow"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="52" title="NumPy"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="52" title="Pandas"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="52" title="Scikit-Learn"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="52" title="OpenCV"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="52" title="Jupyter"/>
-</p>
+</td>
+
+<!-- ================= BACKEND ================= -->
+
+<td width="25%" align="center" valign="top" style="padding:12px 6px;">
+
+<h3>Backend</h3>
+
+<hr width="96%">
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python" width="52" title="Python"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs" width="52" title="Node.js"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=express" width="52" title="Express"/>
 
 <br><br>
 
-<h4 align="center">Tools & Environment</h4>
+<img src="https://skillicons.dev/icons?i=postgres" width="52" title="PostgreSQL"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=mongodb" width="52" title="MongoDB"/>
 
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="52" title="Git"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="52" title="GitHub"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="52" title="VS Code"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="52" title="Linux"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="52" title="Postman"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="52" title="Figma"/>
-</p>
+</td>
 
+<!-- ================= AI / ML ================= -->
+
+<td width="25%" align="center" valign="top" style="padding:12px 6px;">
+
+<h3>AI / ML</h3>
+
+<hr width="96%">
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=pytorch" width="52" title="PyTorch"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=tensorflow" width="52" title="TensorFlow"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=opencv" width="52" title="OpenCV"/>
+
+<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="52" title="NumPy"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="52" title="Pandas"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="52" title="Scikit-Learn"/>
+
+</td>
+
+<!-- ================= TOOLS ================= -->
+
+<td width="25%" align="center" valign="top" style="padding:12px 6px;">
+
+<h3>Tools</h3>
+
+<hr width="96%">
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git" width="52" title="Git"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=github" width="52" title="GitHub"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=docker" width="52" title="Docker"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=linux" width="52" title="Linux"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=postman" width="52" title="Postman"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=figma" width="52" title="Figma"/>
+
+</td>
+
+</tr>
+
+</table>
 
 
 <!-- Animated Divider -->
