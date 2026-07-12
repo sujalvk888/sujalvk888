@@ -385,44 +385,77 @@ alt="Pac-Man Contribution Animation"/>
 
 <br>
 
+<!-- ========================================================= -->
+<!--                    🌐 CONNECT WITH ME                     -->
+<!-- ========================================================= -->
+
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-<i>Let's build something meaningful together.</i>
+<i>Always open to collaborations, exciting opportunities, and meaningful conversations.</i>
+</p>
+
+<br>
+
+<div align="center">
+
+<a href="https://sujal-portfolio-sigmaverse.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/▲%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sujal.vk888@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sujalvk888" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sujalvk888&style=flat-square&label=Profile+Views&color=7C3AED"/>
+
+<img src="https://img.shields.io/github/followers/sujalvk888?style=flat-square&label=Followers&color=36BCF7"/>
+
+</div>
+
+<!-- ================= FOOTER ================= -->
+
+<br>
+
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</p>
+
+<br>
+
+<h3 align="center">Thanks for Visiting 👋</h3>
+
+<p align="center">
+<sub>
+Let's build intelligent software, contribute to open source,
+and create impactful AI products together.
+</sub>
 </p>
 
 <br>
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:sujal.vk888@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://sujal-portfolio-sigmaverse.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/sujalvk888">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=sujalvk888&style=flat-square&label=Profile+Views&color=0891b2"/>
+<code>📍 India</code>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/sujalvk888?style=flat-square&label=Followers&color=0891b2"/>
-</p>
-
-<p align="center">
-<sub>
-Building AI-powered software • Open Source • Full-Stack Development • Lifelong Learning
-</sub>
+<code>🤝 Open to Collaborate</code>
+&nbsp;&nbsp;
+<code>🚀 AI Engineer</code>
 </p>
 
 <br>
@@ -430,5 +463,5 @@ Building AI-powered software • Open Source • Full-Stack Development • Life
 <p align="center">
 <img
 width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=gradient&animation=twinkling"/>
+src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=gradient&animation=twinkling"/>
 </p>
