@@ -268,7 +268,7 @@ style="width:100%; border-collapse:collapse;">
     alt="Profile Summary"/>
 </p>
 
-<br><br>
+<br>
 
 <!-- ================= STREAK + MOST USED LANGUAGES ================= -->
 
@@ -276,7 +276,7 @@ style="width:100%; border-collapse:collapse;">
 align="center"
 width="100%"
 border="0"
-cellspacing="18"
+cellspacing="12"
 cellpadding="0"
 style="border:none; border-collapse:separate;">
 
@@ -304,7 +304,7 @@ alt="Top Languages"/>
 
 </table>
 
-<br><br>
+<br>
 
 <!-- ================= LANGUAGE DISTRIBUTION ================= -->
 
@@ -312,7 +312,7 @@ alt="Top Languages"/>
 align="center"
 width="100%"
 border="0"
-cellspacing="18"
+cellspacing="12"
 cellpadding="0"
 style="border:none; border-collapse:separate;">
 
@@ -340,7 +340,7 @@ alt="Top Languages by Commit"/>
 
 </table>
 
-<br><br>
+<br>
 
 <!-- ================= CONTRIBUTION ACTIVITY ================= -->
 
@@ -353,22 +353,14 @@ alt="Contribution Graph"/>
 
 </p>
 
-<br><br>
-
-<!-- ================= QUICK INSIGHTS ================= -->
+<!-- ================= FOOTER ================= -->
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Open%20Source-Active-36BCF7?style=for-the-badge"/>
-
-&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/Daily%20Coding-Consistent-7C3AED?style=for-the-badge"/>
-
-&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/Continuous-Learning-22C55E?style=for-the-badge"/>
-
+<sub>
+Building consistently &nbsp;&nbsp;•&nbsp;&nbsp;
+Learning continuously &nbsp;&nbsp;•&nbsp;&nbsp;
+Contributing openly
+</sub>
 </p>
 
 
