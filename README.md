@@ -22,7 +22,7 @@
 </p>
 
 <!-- Animated Divider -->
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDIiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjIiPjxsaW5lYXJHcmFkaWVudCBpZD0iYSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPjxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiNGRkIzQkEiPjFhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InN0b3AtY29sb3IiIHZhbHVlcz0iI0ZGQjNCQTsjQkFGRkM5OyNCQUUxRkY7I0ZGQjNCQSIgZHVyPSIxNnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+PC9zdG9wPjxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjQkFGRkM5Ij48YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJzdG9wLWNvbG9yIiB2YWx1ZXM9IiNCQUZGQzk7I0JBRTFGRjsjRkZCM0JBOyNCQUZGQzkiIGR1cj0iMTZzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPjwvc3RvcD48c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNCQUUxRkYiPjFhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InN0b3AtY29sb3IiIHZhbHVlcz0iI0JBRTFGRjsjRkZCM0JBOyNCQUZGQzk7I0JBRTFGRiIgZHVyPSIxNnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+PC9zdG9wPjwvbGluZWFyR3JhZGllbnQ+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iMiIgZmlsbD0idXJsKCNhKSIvPjwvc3ZnPg==" width="100%" />
+<img src="./slow-divider.svg" width="100%" />
 
 <!-- ========================================================= -->
 <!--                       ABOUT ME                            -->
@@ -115,7 +115,7 @@ Creating scalable software with Python, JavaScript, React, Node.js, REST APIs, A
 
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<img src="./slow-divider.svg" width="100%" />
 
 <!-- ████████████████████████████████████████████████████████████ -->
 <!--                     ⚡ TECHNOLOGY STACK                      -->
@@ -171,9 +171,7 @@ Creating scalable software with Python, JavaScript, React, Node.js, REST APIs, A
 
 <br><br>
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient" />
-</p>
+<img src="./slow-divider.svg" width="100%" />
 
 
 <!-- ========================================================= -->
@@ -297,7 +295,7 @@ Contributing openly
 <!--              🎮 GITHUB CONTRIBUTION JOURNEY               -->
 <!-- ========================================================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+<img src="./slow-divider.svg" width="100%" />
 
 <h2 align="center">🎮 GitHub Contribution Journey</h2>
 
@@ -318,7 +316,7 @@ alt="Pac-Man Contribution Animation"/>
 <!--                    🌐 CONNECT WITH ME                     -->
 <!-- ========================================================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+<img src="./slow-divider.svg" width="100%" />
 
 <h2 align="center">🌐 Connect With Me</h2>
 
@@ -362,11 +360,7 @@ alt="Pac-Man Contribution Animation"/>
 
 <br>
 
-<p align="center">
-  <img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&animation=twinkling"/>
-</p>
+<img src="./slow-divider.svg" width="100%" />
 
 <br>
 
