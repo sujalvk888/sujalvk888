@@ -33,23 +33,21 @@
   <!-- ================= TOP ROW ================= -->
   <tr>
 
-    <!-- About Me -->
-  <td width="60%" valign="top" style="padding-right:28px; border:none;">
+   <td width="60%" valign="top" style="padding-right:28px; border:none;">
 
-<h2>About Me</h2>
+<h2 style="margin-top:0;">About Me</h2>
 
 <p><i>
 "Information Science graduate with a passion for building intelligent software and AI-driven solutions."
 </i></p>
 
 <p>
-I enjoy bridging the gap between traditional software engineering and modern AI systems. My approach to learning is rooted in <b>project-based engineering</b>—designing, rebuilding, and deploying production-ready applications that solve meaningful real-world problems.
+I'm passionate about building software that blends <b>solid engineering</b> with <b>modern AI</b>. I learn best by creating <b>real projects</b>, solving practical problems, and continuously refining my work through <b>hands-on experience</b>.
 </p>
 
   </td>
 
-  <!-- Illustration -->
-   <td width="40%" valign="top" align="center" style="border:none;">
+  <td width="40%" valign="top" align="center" style="border:none;">
 
 <img
 src="https://github.com/user-attachments/assets/912a99b5-2e6c-4e71-87d5-4b9fdd076367"
@@ -64,60 +62,57 @@ style="border-radius:12px;" />
   <!-- ================= CURRENT FOCUS ================= -->
   <tr>
 
-   <td colspan="2" style="padding-top:28px; border:none;">
+  <td colspan="2" style="padding-top:18px; border:none;">
 
-<h2>Current Focus</h2>
+<h2 style="margin-top:0;">Current Focus</h2>
 
 <ul>
 
 <li>
-<b>Architecting</b> — Building intelligent AI-powered full-stack applications engineered to solve practical business and user challenges.
+Building intelligent, AI-powered full-stack applications that solve practical real-world problems.
 </li>
 
 <br>
 
 <li>
-<b>Mastering</b> — Deep Learning, Large Language Models, Retrieval-Augmented Generation (RAG), AI agents, and production-ready MLOps workflows.
+Exploring large language models, deep learning, retrieval-augmented generation (RAG), AI agents, and modern MLOps practices.
 </li>
 
 <br>
 
 <li>
-<b>Seeking</b> — Collaborating on open-source AI, computer vision, automation, and developer tooling projects.
+Collaborating on open-source projects involving AI, computer vision, automation, and developer tooling.
 </li>
 
 <br>
 
 <li>
-<b>Expertise</b> — Python, JavaScript, React, Node.js, REST APIs, AI integrations, scalable backend architecture, and modern web technologies.
+Creating scalable software with Python, JavaScript, React, Node.js, REST APIs, AI integrations, and modern web technologies.
 </li>
 
 </ul>
 
-  </td>
+<br>
+
+   </td>
 
   </tr>
 
- <!-- ================= BADGES ================= -->
+  <!-- ================= BADGES ================= -->
   <tr>
 
-   <td colspan="2" align="center" style="padding-top:18px; border:none;">
+   <td colspan="2" align="center" style="padding-top:10px; border:none;">
 
-<img src="https://img.shields.io/badge/Open%20to%20Collaborate-36BCF7?style=for-the-badge&logo=handshake&logoColor=white" />
-
-&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/Building%20in%20Public-111827?style=for-the-badge&logo=github&logoColor=white" />
-
-&nbsp;&nbsp;
-
-<img src="https://komarev.com/ghpvc/?username=sujalvk888&style=for-the-badge&color=36BCF7&label=Profile+Views" />
+<img src="https://img.shields.io/badge/Open%20to%20Collaborate-36BCF7?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to Collaborate" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Building%20in%20Public-111827?style=for-the-badge&logo=github&logoColor=white" alt="Building in Public" />&nbsp;&nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=sujalvk888&style=for-the-badge&color=36BCF7&label=Profile+Views" alt="Profile Views" />
 
    </td>
 
   </tr>
 
 </table>
+
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
