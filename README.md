@@ -2,8 +2,9 @@
 <!--                     HERO SECTION                           -->
 <!-- ████████████████████████████████████████████████████████████ -->
 
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/423aa52e-6d80-4dc5-8081-2fb115f3d6b2" width="100%" height="230" alt="Profile Banner" />
+  <img width="3780" height="1366" alt="Sujal_GitHub_Banner" src="https://github.com/user-attachments/assets/6ac74c14-b8d2-4943-b6ac-d80b3c7512ca" />
 </p>
 
 <p align="center">
@@ -60,7 +61,7 @@
     </td>
 
 <td width="38%" valign="top" align="center" style="border: none;">
-      <img src="https://github.com/user-attachments/assets/2651cd71-508a-49a4-aeca-62cc0424c1c7" alt="AI & Dev Dashboard Visual" width="100%" style="border-radius: 12px;" />
+      <img src="https://github.com/user-attachments/assets/912a99b5-2e6c-4e71-87d5-4b9fdd076367" alt="AI & Dev Dashboard Visual" width="100%" style="border-radius: 12px;" />
 
 <br/><br/>
 
