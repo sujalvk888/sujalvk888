@@ -24,58 +24,104 @@
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--                  CORE NARRATIVE & VISUAL SPLIT             -->
-<!-- ████████████████████████████████████████████████████████████ -->
+<!-- ========================================================= -->
+<!--                       ABOUT ME                            -->
+<!-- ========================================================= -->
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse; border: none;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse; border:none;">
+
+  <!-- ================= TOP ROW ================= -->
   <tr>
-    <td width="62%" valign="top" style="border: none; padding-right: 24px;">
-      <h2>👨‍💻 About Me</h2>
-      <p><i>"Information Science graduate by credential, AI Specialist by obsession."</i></p>
-      <p>I bridge the gap between traditional software engineering and intelligent data systems. My engineering philosophy is built entirely around <b>project-based learning</b> — I truly master complex architectures by breaking them, rebuilding them, and deploying them to production.</p>
 
-<h3>🎯 The Current Vector</h3>
-      <ul>
-        <li><b>🏗️ Architecting</b> — Intelligent, AI-augmented full-stack web apps engineered to solve real-world bottlenecks.</li>
-        <li><b>🧠 Mastering</b> — Deep learning, LLM fine-tuning strategies, and production-ready MLOps pipelines.</li>
-        <li><b>🤝 Seeking</b> — High-impact collabs on open-source AI tooling, computer vision & automation pipelines.</li>
-        <li><b>⚡ Expertise</b> — Full-stack core (Python, JS, React, Node.js) fused with modern AI API orchestrations.</li>
-      </ul>
+    <!-- About Me -->
+  <td width="60%" valign="top" style="padding-right:28px; border:none;">
+
+<h2>About Me</h2>
+
+<p><i>
+"Information Science graduate with a passion for building intelligent software and AI-driven solutions."
+</i></p>
 
 <p>
-        <img src="https://img.shields.io/badge/Open%20to%20Collaborate-36BCF7?style=flat-square&logo=handshake&logoColor=white" />
-        &nbsp;
-        <img src="https://img.shields.io/badge/Building%20in%20Public-0d1117?style=flat-square&logo=github&logoColor=36BCF7" />
-        &nbsp;
-        <img src="https://komarev.com/ghpvc/?username=sujalvk888&color=36BCF7&style=flat-square&label=Profile+Views" />
-      </p>
-    </td>
+I enjoy bridging the gap between traditional software engineering and modern AI systems. My approach to learning is rooted in <b>project-based engineering</b>—designing, rebuilding, and deploying production-ready applications that solve meaningful real-world problems.
+</p>
 
-<td width="38%" valign="top" align="center" style="border: none;">
-      <img src="https://github.com/user-attachments/assets/912a99b5-2e6c-4e71-87d5-4b9fdd076367" alt="AI & Dev Dashboard Visual" width="100%" style="border-radius: 12px;" />
+  </td>
 
-<br/><br/>
+  <!-- Illustration -->
+   <td width="40%" valign="top" align="center" style="border:none;">
 
-<a href="https://sujal-portfolio-sigmaverse.vercel.app/" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/◈%20Live%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-      </a>
+<img
+src="https://github.com/user-attachments/assets/912a99b5-2e6c-4e71-87d5-4b9fdd076367"
+width="100%"
+alt="AI Developer Illustration"
+style="border-radius:12px;" />
 
-<br/>
+   </td>
 
-<a href="mailto:sujal.vk888@gmail.com" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Gmail-36BCF7?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
-      </a>
-      &nbsp;
-      <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>
-    </td>
   </tr>
+
+  <!-- ================= CURRENT FOCUS ================= -->
+  <tr>
+
+   <td colspan="2" style="padding-top:28px; border:none;">
+
+<h2>Current Focus</h2>
+
+<ul>
+
+<li>
+<b>Architecting</b> — Building intelligent AI-powered full-stack applications engineered to solve practical business and user challenges.
+</li>
+
+<br>
+
+<li>
+<b>Mastering</b> — Deep Learning, Large Language Models, Retrieval-Augmented Generation (RAG), AI agents, and production-ready MLOps workflows.
+</li>
+
+<br>
+
+<li>
+<b>Seeking</b> — Collaborating on open-source AI, computer vision, automation, and developer tooling projects.
+</li>
+
+<br>
+
+<li>
+<b>Expertise</b> — Python, JavaScript, React, Node.js, REST APIs, AI integrations, scalable backend architecture, and modern web technologies.
+</li>
+
+</ul>
+
+  </td>
+
+  </tr>
+
+ <!-- ================= BADGES ================= -->
+  <tr>
+
+   <td colspan="2" align="center" style="padding-top:18px; border:none;">
+
+<img src="https://img.shields.io/badge/Open%20to%20Collaborate-36BCF7?style=for-the-badge&logo=handshake&logoColor=white" />
+
+&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/Building%20in%20Public-111827?style=for-the-badge&logo=github&logoColor=white" />
+
+&nbsp;&nbsp;
+
+<img src="https://komarev.com/ghpvc/?username=sujalvk888&style=for-the-badge&color=36BCF7&label=Profile+Views" />
+
+   </td>
+
+  </tr>
+
 </table>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
 
 <!-- ████████████████████████████████████████████████████████████ -->
 <!--                       TECH STACK                           -->
