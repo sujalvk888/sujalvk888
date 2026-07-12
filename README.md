@@ -124,132 +124,57 @@ Creating scalable software with Python, JavaScript, React, Node.js, REST APIs, A
 <h2 align="center">⚡ Technology Stack</h2>
 
 <p align="center">
-<i>Building modern full-stack applications powered by AI and scalable software engineering.</i>
+  <i>Building modern full-stack applications powered by AI and scalable software engineering.</i>
 </p>
 
 <br>
 
-<table align="center" width="100%" border="0" cellspacing="18" cellpadding="0">
+<div align="center">
 
-<tr>
+  <h3>🖥️ Frontend</h3>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-<td width="25%" align="center" valign="top">
+  <br><br>
 
-<h3>🎨 Frontend</h3>
+  <h3>⚙️ Backend</h3>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
-<br>
+  <br><br>
+
+  <h3>🤖 AI / Machine Learning</h3>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+
+  <br><br>
+
+  <h3>🛠️ Tools & Environment</h3>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+
+</div>
+
+<br><br>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=react" width="58"/>
-&nbsp;
-<img src="https://skillicons.dev/icons?i=nextjs" width="58"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=tailwind" width="58"/>
-&nbsp;
-<img src="https://skillicons.dev/icons?i=typescript" width="58"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=javascript" width="58"/>
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient" />
 </p>
 
-</td>
-
-<td width="25%" align="center" valign="top">
-
-<h3>⚙ Backend</h3>
-
-<br>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python" width="58"/>
-&nbsp;
-<img src="https://skillicons.dev/icons?i=nodejs" width="58"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=express" width="58"/>
-&nbsp;
-<img src="https://skillicons.dev/icons?i=postgres" width="58"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=mongodb" width="58"/>
-
-</p>
-
-</td>
-
-<td width="25%" align="center" valign="top">
-
-<h3>🤖 AI / ML</h3>
-
-<br>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=pytorch" width="58"/>
-&nbsp;
-<img src="https://skillicons.dev/icons?i=tensorflow" width="58"/>
-
-<br><br>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="58"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="58"/>
-
-<br><br>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="58"/>
-&nbsp;
-<img src="https://skillicons.dev/icons?i=opencv" width="58"/>
-
-</p>
-
-</td>
-
-<td width="25%" align="center" valign="top">
-
-<h3>🛠 Tools</h3>
-
-<br>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git" width="58"/>
-&nbsp;
-<img src="https://skillicons.dev/icons?i=github" width="58"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=docker" width="58"/>
-&nbsp;
-<img src="https://skillicons.dev/icons?i=linux" width="58"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=postman" width="58"/>
-&nbsp;
-<img src="https://skillicons.dev/icons?i=figma" width="58"/>
-
-</p>
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
-</p>
 
 <!-- ========================================================= -->
 <!--                    📊 GITHUB ANALYTICS                     -->
