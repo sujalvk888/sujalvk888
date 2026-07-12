@@ -22,7 +22,7 @@
 </p>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDIiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjIiPjxsaW5lYXJHcmFkaWVudCBpZD0iYSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPjxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiNGRkIzQkEiPjFhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InN0b3AtY29sb3IiIHZhbHVlcz0iI0ZGQjNCQTsjQkFGRkM5OyNCQUUxRkY7I0ZGQjNCQSIgZHVyPSIxNnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+PC9zdG9wPjxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjQkFGRkM5Ij48YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJzdG9wLWNvbG9yIiB2YWx1ZXM9IiNCQUZGQzk7I0JBRTFGRjsjRkZCM0JBOyNCQUZGQzkiIGR1cj0iMTZzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPjwvc3RvcD48c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNCQUUxRkYiPjFhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InN0b3AtY29sb3IiIHZhbHVlcz0iI0JBRTFGRjsjRkZCM0JBOyNCQUZGQzk7I0JBRTFGRiIgZHVyPSIxNnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+PC9zdG9wPjwvbGluZWFyR3JhZGllbnQ+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iMiIgZmlsbD0idXJsKCNhKSIvPjwvc3ZnPg==" width="100%" />
 
 <!-- ========================================================= -->
 <!--                       ABOUT ME                            -->
