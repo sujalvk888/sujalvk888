@@ -254,54 +254,73 @@ style="width:100%; border-collapse:collapse;">
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-<i>A snapshot of my coding journey, contribution history, and development activity.</i>
+<i>Tracking my coding journey through open-source contributions, consistency, and development insights.</i>
 </p>
 
 <br>
 
-<!-- ================= PROFILE SUMMARY ================= -->
+<!-- ================= OVERVIEW ================= -->
+
+<h3 align="center">Overview</h3>
 
 <p align="center">
-  <img
-    width="100%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujalvk888&theme=tokyonight"
-    alt="Profile Summary"/>
+<img
+width="100%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujalvk888&theme=midnight_purple"
+alt="Profile Summary"/>
 </p>
 
 <br>
 
-<!-- ================= STREAK ================= -->
+<!-- ================= MAIN DASHBOARD ================= -->
 
-<p align="center">
-  <img
-    width="78%"
-    src="https://streak-stats.demolab.com?user=sujalvk888&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"/>
-</p>
+<table align="center" width="100%" border="0" cellspacing="18" cellpadding="0">
+
+<tr>
+
+<td align="center" width="58%" valign="top">
+
+<img
+width="100%"
+src="https://streak-stats.demolab.com?user=sujalvk888&theme=midnight-purple&hide_border=true"
+alt="GitHub Streak"/>
+
+</td>
+
+<td align="center" width="42%" valign="top">
+
+<img
+width="100%"
+src="https://github-readme-stats-bice-sigma-37.vercel.app/api/top-langs/?username=sujalvk888&layout=compact&theme=midnight-purple&hide_border=true"
+alt="Top Languages"/>
+
+</td>
+
+</tr>
+
+</table>
 
 <br>
 
-<!-- ================= MOST USED LANGUAGES ================= -->
+<!-- ================= LANGUAGE ANALYTICS ================= -->
 
-<p align="center">
-  <img
-    width="54%"
-    src="https://github-readme-stats-bice-sigma-37.vercel.app/api/top-langs/?username=sujalvk888&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"/>
-</p>
+<h3 align="center">Language Analytics</h3>
 
-<br>
+<table
+align="center"
+width="100%"
+border="0"
+cellspacing="20"
+cellpadding="0"
+style="border-collapse:separate;">
 
-<!-- ================= LANGUAGE BREAKDOWN ================= -->
-
-<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
 
 <td align="center" width="50%">
 
 <img
-width="95%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujalvk888&theme=tokyonight"
+width="100%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujalvk888&theme=midnight_purple"
 alt="Top Languages by Repository"/>
 
 </td>
@@ -309,23 +328,61 @@ alt="Top Languages by Repository"/>
 <td align="center" width="50%">
 
 <img
-width="95%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sujalvk888&theme=tokyonight"
+width="100%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sujalvk888&theme=midnight_purple"
 alt="Top Languages by Commit"/>
 
 </td>
 
 </tr>
+
 </table>
+
+<br>
 
 <!-- ================= CONTRIBUTION GRAPH ================= -->
 
+<h3 align="center">Contribution Activity</h3>
+
 <p align="center">
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sujalvk888&theme=tokyo-night&hide_border=true&area=true"
-    alt="Contribution Graph"/>
+
+<img
+width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=sujalvk888&theme=nightowl&hide_border=true&area=true"
+alt="Contribution Graph"/>
+
 </p>
+
+<br>
+
+<!-- ================= QUICK INSIGHTS ================= -->
+
+<table align="center" width="100%" border="0" cellspacing="14" cellpadding="0">
+
+<tr>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/Open%20Source-Active-36BCF7?style=for-the-badge"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/Consistency-Daily%20Coding-7C3AED?style=for-the-badge"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/Learning-Continuous-22C55E?style=for-the-badge"/>
+
+</td>
+
+</tr>
+
+</table>
+
 
 <!-- ========================================================= -->
 <!--              🎮 GITHUB CONTRIBUTION JOURNEY               -->
