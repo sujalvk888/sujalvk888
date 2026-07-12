@@ -254,12 +254,12 @@ style="width:100%; border-collapse:collapse;">
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <i>A snapshot of my coding journey, contribution history, and development activity.</i>
+<i>A snapshot of my coding journey, contribution history, and development activity.</i>
 </p>
 
 <br>
 
-<!-- ================= PROFILE OVERVIEW ================= -->
+<!-- ================= PROFILE SUMMARY ================= -->
 
 <p align="center">
   <img
@@ -270,41 +270,53 @@ style="width:100%; border-collapse:collapse;">
 
 <br>
 
-<!-- ================= STREAK + TOP LANGUAGES ================= -->
+<!-- ================= STREAK ================= -->
 
 <p align="center">
-
   <img
-    width="49%"
+    width="78%"
     src="https://streak-stats.demolab.com?user=sujalvk888&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"/>
-
-  <img
-    width="49%"
-    src="https://github-readme-stats-bice-sigma-37.vercel.app/api/top-langs/?username=sujalvk888&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"/>
-
 </p>
 
 <br>
 
-<!-- ================= LANGUAGE INSIGHTS ================= -->
+<!-- ================= MOST USED LANGUAGES ================= -->
 
 <p align="center">
-
   <img
-    width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujalvk888&theme=tokyonight"
-    alt="Top Languages by Repository"/>
-
-  <img
-    width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sujalvk888&theme=tokyonight"
-    alt="Top Languages by Commits"/>
-
+    width="54%"
+    src="https://github-readme-stats-bice-sigma-37.vercel.app/api/top-langs/?username=sujalvk888&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"/>
 </p>
 
 <br>
+
+<!-- ================= LANGUAGE BREAKDOWN ================= -->
+
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+
+<td align="center" width="50%">
+
+<img
+width="95%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujalvk888&theme=tokyonight"
+alt="Top Languages by Repository"/>
+
+</td>
+
+<td align="center" width="50%">
+
+<img
+width="95%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sujalvk888&theme=tokyonight"
+alt="Top Languages by Commit"/>
+
+</td>
+
+</tr>
+</table>
 
 <!-- ================= CONTRIBUTION GRAPH ================= -->
 
@@ -314,7 +326,6 @@ style="width:100%; border-collapse:collapse;">
     src="https://github-readme-activity-graph.vercel.app/graph?username=sujalvk888&theme=tokyo-night&hide_border=true&area=true"
     alt="Contribution Graph"/>
 </p>
-
 
 <!-- ========================================================= -->
 <!--              🎮 GITHUB CONTRIBUTION JOURNEY               -->
