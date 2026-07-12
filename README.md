@@ -118,10 +118,10 @@ Creating scalable software with Python, JavaScript, React, Node.js, REST APIs, A
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- ████████████████████████████████████████████████████████████ -->
-<!--                     TECHNOLOGY STACK                        -->
+<!--                     ⚡ TECHNOLOGY STACK                      -->
 <!-- ████████████████████████████████████████████████████████████ -->
 
-<h2 align="center">🛠️ Technology Stack</h2>
+<h2 align="center">⚡ Technology Stack</h2>
 
 <p align="center">
 <i>Building modern full-stack applications powered by AI and scalable software engineering.</i>
@@ -129,113 +129,115 @@ Creating scalable software with Python, JavaScript, React, Node.js, REST APIs, A
 
 <br>
 
-<table
-align="center"
-width="100%"
-border="1"
-cellspacing="0"
-cellpadding="0"
-style="width:100%; border-collapse:collapse;">
+<table align="center" width="100%" border="0" cellspacing="18" cellpadding="0">
 
 <tr>
 
-<!-- ================= FRONTEND ================= -->
+<td width="25%" align="center" valign="top">
 
-<td width="25%" align="center" valign="top" style="padding:12px 6px;">
-
-<h3>Frontend</h3>
-
-<hr width="96%">
+<h3>🎨 Frontend</h3>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=react" width="52" title="React"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react" width="58"/>
 &nbsp;
-<img src="https://skillicons.dev/icons?i=nextjs" width="52" title="Next.js"/>
-&nbsp;
-<img src="https://skillicons.dev/icons?i=tailwind" width="52" title="Tailwind CSS"/>
+<img src="https://skillicons.dev/icons?i=nextjs" width="58"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=typescript" width="52" title="TypeScript"/>
+<img src="https://skillicons.dev/icons?i=tailwind" width="58"/>
 &nbsp;
-<img src="https://skillicons.dev/icons?i=javascript" width="52" title="JavaScript"/>
+<img src="https://skillicons.dev/icons?i=typescript" width="58"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=javascript" width="58"/>
+
+</p>
 
 </td>
 
-<!-- ================= BACKEND ================= -->
+<td width="25%" align="center" valign="top">
 
-<td width="25%" align="center" valign="top" style="padding:12px 6px;">
-
-<h3>Backend</h3>
-
-<hr width="96%">
+<h3>⚙ Backend</h3>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python" width="52" title="Python"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python" width="58"/>
 &nbsp;
-<img src="https://skillicons.dev/icons?i=nodejs" width="52" title="Node.js"/>
-&nbsp;
-<img src="https://skillicons.dev/icons?i=express" width="52" title="Express"/>
+<img src="https://skillicons.dev/icons?i=nodejs" width="58"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=postgres" width="52" title="PostgreSQL"/>
+<img src="https://skillicons.dev/icons?i=express" width="58"/>
 &nbsp;
-<img src="https://skillicons.dev/icons?i=mongodb" width="52" title="MongoDB"/>
+<img src="https://skillicons.dev/icons?i=postgres" width="58"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=mongodb" width="58"/>
+
+</p>
 
 </td>
 
-<!-- ================= AI / ML ================= -->
+<td width="25%" align="center" valign="top">
 
-<td width="25%" align="center" valign="top" style="padding:12px 6px;">
-
-<h3>AI / ML</h3>
-
-<hr width="96%">
+<h3>🤖 AI / ML</h3>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=pytorch" width="52" title="PyTorch"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=pytorch" width="58"/>
 &nbsp;
-<img src="https://skillicons.dev/icons?i=tensorflow" width="52" title="TensorFlow"/>
-&nbsp;
-<img src="https://skillicons.dev/icons?i=opencv" width="52" title="OpenCV"/>
+<img src="https://skillicons.dev/icons?i=tensorflow" width="58"/>
 
 <br><br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="52" title="NumPy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="58"/>
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="52" title="Pandas"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="58"/>
+
+<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="58"/>
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="52" title="Scikit-Learn"/>
+<img src="https://skillicons.dev/icons?i=opencv" width="58"/>
+
+</p>
 
 </td>
 
-<!-- ================= TOOLS ================= -->
+<td width="25%" align="center" valign="top">
 
-<td width="25%" align="center" valign="top" style="padding:12px 6px;">
-
-<h3>Tools</h3>
-
-<hr width="96%">
+<h3>🛠 Tools</h3>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=git" width="52" title="Git"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git" width="58"/>
 &nbsp;
-<img src="https://skillicons.dev/icons?i=github" width="52" title="GitHub"/>
-&nbsp;
-<img src="https://skillicons.dev/icons?i=docker" width="52" title="Docker"/>
+<img src="https://skillicons.dev/icons?i=github" width="58"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=linux" width="52" title="Linux"/>
+<img src="https://skillicons.dev/icons?i=docker" width="58"/>
 &nbsp;
-<img src="https://skillicons.dev/icons?i=postman" width="52" title="Postman"/>
+<img src="https://skillicons.dev/icons?i=linux" width="58"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=postman" width="58"/>
 &nbsp;
-<img src="https://skillicons.dev/icons?i=figma" width="52" title="Figma"/>
+<img src="https://skillicons.dev/icons?i=figma" width="58"/>
+
+</p>
 
 </td>
 
@@ -243,9 +245,11 @@ style="width:100%; border-collapse:collapse;">
 
 </table>
 
+<br>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+</p>
 
 <!-- ========================================================= -->
 <!--                    📊 GITHUB ANALYTICS                     -->
