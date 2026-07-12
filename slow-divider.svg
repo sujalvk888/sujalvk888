@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 2" width="100%" height="2">
+  <linearGradient id="slow-rgb" x1="0%" y1="0%" x2="100%" y2="0%">
+    <!-- Smooth Pastel Red/Pink Stop -->
+    <stop offset="0%" stop-color="#FFB7B2">
+      <animate attributeName="stop-color" values="#FFB7B2;#E2F0CB;#C7CEEA;#FFB7B2" dur="20s" repeatCount="indefinite" />
+    </stop>
+    <!-- Smooth Pastel Orange/Green Stop -->
+    <stop offset="50%" stop-color="#FFDAC1">
+      <animate attributeName="stop-color" values="#FFDAC1;#B5EAD7;#FFB7B2;#FFDAC1" dur="20s" repeatCount="indefinite" />
+    </stop>
+    <!-- Smooth Pastel Blue/Purple Stop -->
+    <stop offset="100%" stop-color="#C7CEEA">
+      <animate attributeName="stop-color" values="#C7CEEA;#FFB7B2;#E2F0CB;#C7CEEA" dur="20s" repeatCount="indefinite" />
+    </stop>
+  </linearGradient>
+  <rect width="1200" height="2" fill="url(#slow-rgb)" />
+</svg>
