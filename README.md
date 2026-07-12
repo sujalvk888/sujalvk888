@@ -259,26 +259,30 @@ style="width:100%; border-collapse:collapse;">
 
 <br>
 
-<!-- ================= OVERVIEW ================= -->
-
-<h3 align="center">Overview</h3>
+<!-- ================= PROFILE SUMMARY ================= -->
 
 <p align="center">
-<img
-width="100%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujalvk888&theme=midnight_purple"
-alt="Profile Summary"/>
+  <img
+    width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujalvk888&theme=midnight_purple"
+    alt="Profile Summary"/>
 </p>
 
-<br>
+<br><br>
 
-<!-- ================= MAIN DASHBOARD ================= -->
+<!-- ================= STREAK + MOST USED LANGUAGES ================= -->
 
-<table align="center" width="100%" border="0" cellspacing="18" cellpadding="0">
+<table
+align="center"
+width="100%"
+border="0"
+cellspacing="18"
+cellpadding="0"
+style="border:none; border-collapse:separate;">
 
 <tr>
 
-<td align="center" width="58%" valign="top">
+<td align="center" width="62%" valign="middle" style="border:none;">
 
 <img
 width="100%"
@@ -287,7 +291,7 @@ alt="GitHub Streak"/>
 
 </td>
 
-<td align="center" width="42%" valign="top">
+<td align="center" width="38%" valign="middle" style="border:none;">
 
 <img
 width="100%"
@@ -300,23 +304,21 @@ alt="Top Languages"/>
 
 </table>
 
-<br>
+<br><br>
 
-<!-- ================= LANGUAGE ANALYTICS ================= -->
-
-<h3 align="center">Language Analytics</h3>
+<!-- ================= LANGUAGE DISTRIBUTION ================= -->
 
 <table
 align="center"
 width="100%"
 border="0"
-cellspacing="20"
+cellspacing="18"
 cellpadding="0"
-style="border-collapse:separate;">
+style="border:none; border-collapse:separate;">
 
 <tr>
 
-<td align="center" width="50%">
+<td align="center" width="50%" style="border:none;">
 
 <img
 width="100%"
@@ -325,7 +327,7 @@ alt="Top Languages by Repository"/>
 
 </td>
 
-<td align="center" width="50%">
+<td align="center" width="50%" style="border:none;">
 
 <img
 width="100%"
@@ -338,11 +340,9 @@ alt="Top Languages by Commit"/>
 
 </table>
 
-<br>
+<br><br>
 
-<!-- ================= CONTRIBUTION GRAPH ================= -->
-
-<h3 align="center">Contribution Activity</h3>
+<!-- ================= CONTRIBUTION ACTIVITY ================= -->
 
 <p align="center">
 
@@ -353,35 +353,23 @@ alt="Contribution Graph"/>
 
 </p>
 
-<br>
+<br><br>
 
 <!-- ================= QUICK INSIGHTS ================= -->
 
-<table align="center" width="100%" border="0" cellspacing="14" cellpadding="0">
-
-<tr>
-
-<td align="center">
+<p align="center">
 
 <img src="https://img.shields.io/badge/Open%20Source-Active-36BCF7?style=for-the-badge"/>
 
-</td>
+&nbsp;&nbsp;
 
-<td align="center">
+<img src="https://img.shields.io/badge/Daily%20Coding-Consistent-7C3AED?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Consistency-Daily%20Coding-7C3AED?style=for-the-badge"/>
+&nbsp;&nbsp;
 
-</td>
+<img src="https://img.shields.io/badge/Continuous-Learning-22C55E?style=for-the-badge"/>
 
-<td align="center">
-
-<img src="https://img.shields.io/badge/Learning-Continuous-22C55E?style=for-the-badge"/>
-
-</td>
-
-</tr>
-
-</table>
+</p>
 
 
 <!-- ========================================================= -->
