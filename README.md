@@ -64,7 +64,7 @@ style="border-radius:12px;" />
 
   <td colspan="2" style="padding-top:18px; border:none;">
 
-<h2 style="margin-top:0;">Current Focus</h2>
+<h2 style="margin-top:0;">What I'm Working On</h2>
 
 <ul>
 
@@ -434,7 +434,9 @@ alt="Pac-Man Contribution Animation"/>
 <br>
 
 <p align="center">
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  <img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&animation=twinkling"/>
 </p>
 
 <br>
@@ -460,8 +462,6 @@ and create impactful AI products together.
 
 <br>
 
-<p align="center">
 <img
 width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=gradient&animation=twinkling"/>
-</p>
+src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&animation=twinkling"/>
