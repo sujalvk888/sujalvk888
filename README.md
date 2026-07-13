@@ -318,7 +318,7 @@ alt="Pac-Man Contribution Animation"/>
 
 <img src="./slow-divider.svg" width="100%" />
 
-<h2 align="center">🌐 Connect With Me</h2>
+<h2 align="center">🌐 Get In Touch</h2>
 
 <p align="center">
 <i>Always open to collaborations, exciting opportunities, and meaningful conversations.</i>
