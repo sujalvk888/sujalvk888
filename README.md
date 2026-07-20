@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://sujal-portfolio-sigmaverse.vercel.app/" target="_blank">
+  <a href="https://sujalvk.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/◈%20Live%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Gmail-36BCF7?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/sujal-v-kanchan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
