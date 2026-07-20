@@ -328,11 +328,11 @@ alt="Pac-Man Contribution Animation"/>
 
 <div align="center">
 
-<a href="https://sujal-portfolio-sigmaverse.vercel.app/" target="_blank">
+<a href="https://sujalvk.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/▲%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+<a href="https://linkedin.com/in/sujal-v-kanchan" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -378,9 +378,9 @@ and create impactful AI products together.
 <p align="center">
 <code>📍 India</code>
 &nbsp;&nbsp;
-<code>🤝 Open to Collaborate</code>
+<code>🤝 Open to AI Engineering Opportunities</code>
 &nbsp;&nbsp;
-<code>🚀 AI Engineer</code>
+<code>🚀 Building AI Productsr</code>
 </p>
 
 <br>
