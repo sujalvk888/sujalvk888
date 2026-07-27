@@ -116,6 +116,7 @@ Creating scalable software with Python, JavaScript, React, Node.js, REST APIs, A
 <!-- Animated Divider -->
 <img src="./slow-divider.svg" width="100%" />
 
+
 <!-- ████████████████████████████████████████████████████████████ -->
 <!--                     ⚡ TECHNOLOGY STACK                      -->
 <!-- ████████████████████████████████████████████████████████████ -->
