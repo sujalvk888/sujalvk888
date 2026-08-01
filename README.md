@@ -2,6 +2,7 @@
 <!--                     HERO SECTION                           -->
 <!-- ████████████████████████████████████████████████████████████ -->
 
+
 <p align="center">
   <img width="3780" height="1359" alt="Sujal_GitHub_Banner" src="https://github.com/user-attachments/assets/3bb2ba55-fb07-4010-b9cb-323379d4b692" />
 </p>
